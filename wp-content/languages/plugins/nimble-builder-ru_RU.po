@@ -1,0 +1,2447 @@
+# Translation of Plugins - Nimble Page Builder - Stable (latest release) in Russian
+# This file is distributed under the same license as the Plugins - Nimble Page Builder - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-03-03 12:32:30+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - Nimble Page Builder - Stable (latest release)\n"
+
+#: inc/sektions/ccat-czr-sektions.php:503
+#: inc/sektions/ccat-czr-sektions.php:504
+msgid "Section navigation"
+msgstr "Раздел навигации"
+
+#: inc/sektions/ccat-czr-sektions.php:437
+msgid "No sections to navigate"
+msgstr "Нет разделов для навигации"
+
+#: inc/sektions/ccat-sektions.php:11491
+msgid "reCAPTCHA problem (only visible by a logged in administrator )"
+msgstr "проблема reCAPTCHA (видна только администратору)"
+
+#: inc/sektions/ccat-sektions.php:11478
+msgid "%1$s : <strong>%2$s</strong>."
+msgstr "%1$s : <strong>%2$s</strong>."
+
+#: inc/sektions/ccat-sektions.php:11380
+msgid "Google reCAPTCHA returned a score of %s, which is lower than your threshold of %s."
+msgstr "Google reCAPTCHA вернул оценку %s, которая ниже вашего порога %s."
+
+#: inc/sektions/ccat-sektions.php:11365
+msgid "There was a problem when performing the reCAPTCHA http request."
+msgstr "При выполнении http-запроса reCAPTCHA возникла проблема."
+
+#: inc/sektions/ccat-sektions.php:7102
+msgid "Tip : replace the default messages with a blank space to not show anything."
+msgstr "Совет: замените сообщения по умолчанию пробелом."
+
+#: inc/sektions/ccat-sektions.php:4439
+msgid "Google ReCAPTCHA validation failed. This form only accepts messages from humans."
+msgstr "Проверка Google ReCAPTCHA не удалась. Эта форма принимает только сообщения от людей."
+
+#: inc/sektions/ccat-sektions.php:4437
+msgid "Failure message"
+msgstr "Сообщение об ошибке"
+
+#: inc/sektions/ccat-sektions.php:4429
+msgid "Show a failure message"
+msgstr "Показать сообщение об ошибке"
+
+#: inc/sektions/ccat-sektions.php:4423
+msgid "reCAPTCHA returns a score from 0 to 1 on each submission. 1 is very likely a good interaction, 0 is very likely a bot. A form submission that scores lower than your threshold will be considered as done by a robot, and aborted."
+msgstr "reCAPTCHA возвращает оценку от 0 до 1 за каждую отправку. 0 очень вероятно бот. Форма отправки робота и прервана."
+
+#: inc/sektions/ccat-sektions.php:4415
+msgid "Score threshold"
+msgstr "Порог оценки"
+
+#: inc/sektions/ccat-sektions.php:4408
+msgid "Secret key"
+msgstr "Секретный ключ"
+
+#: inc/sektions/ccat-sektions.php:4401
+msgid "Site key"
+msgstr "Ключ сайта"
+
+#: inc/sektions/ccat-sektions.php:4394
+msgid "The Nimble Builder can activate the %1$s service to protect your forms against spambots. You need to %2$s."
+msgstr "Nimble Builder может активировать службу %1$s для защиты ваших форм от спам-ботов. Вам нужно %2$s."
+
+#: inc/sektions/ccat-sektions.php:7152
+msgid "activate it in the global settings"
+msgstr "активировать его в глобальных настройках"
+
+#: inc/sektions/ccat-sektions.php:7144
+msgid "Disable"
+msgstr "Выключить"
+
+#: inc/sektions/ccat-sektions.php:7143
+msgid "Inherit the global option"
+msgstr "Наследовать глобальный вариант"
+
+#: inc/sektions/ccat-sektions.php:7137
+msgid "Spam protection with Google reCAPTCHA"
+msgstr "Защита от спама с помощью Google reCAPTCHA"
+
+#: inc/sektions/ccat-sektions.php:4449
+msgid "The badge is not previewable when customizing."
+msgstr "Значок не просматривается при настройке."
+
+#: inc/sektions/ccat-sektions.php:4445
+msgid "Show the reCAPTCHA badge at the bottom of your page"
+msgstr "Покажите значок reCAPTCHA внизу вашей страницы"
+
+#: inc/sektions/ccat-sektions.php:4396
+msgid "get your domain API keys from Google"
+msgstr "получить ключи API вашего домена от Google"
+
+#: inc/sektions/ccat-sektions.php:4395 inc/sektions/ccat-sektions.php:7149
+msgid "Google reCAPTCHA"
+msgstr "Google reCAPTCHA"
+
+#: inc/sektions/ccat-sektions.php:7148
+msgid "The Nimble Builder can activate the %1$s service to protect your forms against spam. You need to %2$s."
+msgstr "Nimble Builder может активировать службу %1$s для защиты ваших форм от спама. Вам нужно %2$s."
+
+#: inc/sektions/ccat-sektions.php:4390
+msgid "Activate Google reCAPTCHA on your forms"
+msgstr "Активируйте Google reCAPTCHA на ваших формах"
+
+#: inc/sektions/ccat-sektions.php:3295
+msgid "Hide the content when it is too big to fit in its parent container."
+msgstr "Скрыть содержимое, когда оно слишком велико в родительском контейнере."
+
+#: inc/sektions/ccat-czr-sektions.php:408 inc/sektions/ccat-sektions.php:4385
+msgid "Protect your contact forms with Google reCAPTCHA"
+msgstr "Защитите свои контактные формы с помощью Google reCAPTCHA"
+
+#: inc/sektions/ccat-czr-sektions.php:386
+msgid "Height and vertical alignment for the"
+msgstr "Высота и вертикальное выравнивание для"
+
+#: inc/sektions/ccat-sektions.php:5519
+msgid "With the lazy load option enabled, Nimble loads the map when it becomes visible while scrolling. This improves your page load performances."
+msgstr "При включенной опции отложенной загрузки Nimble загружает карту, когда она становится видимой при прокрутке. Это улучшает производительность загрузки вашей страницы."
+
+#: inc/sektions/ccat-sektions.php:5514
+msgid "Lazy load"
+msgstr "Ленивая загрузка"
+
+#: inc/sektions/ccat-sektions.php:4110 inc/sektions/ccat-sektions.php:4342
+#: inc/sektions/ccat-sektions.php:5520
+msgid "If you use a cache plugin, make sure that this option does not conflict with your caching options."
+msgstr "Если вы используете плагин кэша, убедитесь, что этот параметр не конфликтует с вашими опциями кеширования."
+
+#: inc/sektions/ccat-sektions.php:9082
+msgid "sek_get_preset_sektions => check_ajax_referer() failed."
+msgstr "sek_get_preset_sektions => check_ajax_referer() не удалось."
+
+#: inc/sektions/ccat-sektions.php:4215 inc/sektions/ccat-sektions.php:4369
+msgid "current page options"
+msgstr "параметры текущей страницы"
+
+#: inc/sektions/ccat-sektions.php:2992
+msgid "Round"
+msgstr "Круглый"
+
+#: inc/sektions/ccat-sektions.php:2991
+msgid "Repeat y"
+msgstr "Повторить y"
+
+#: inc/sektions/ccat-sektions.php:2990
+msgid "Repeat x"
+msgstr "Повторить х"
+
+#: inc/sektions/ccat-sektions.php:2988
+msgid "No repeat"
+msgstr "Не повторять"
+
+#: inc/sektions/ccat-sektions.php:2984 inc/sektions/ccat-sektions.php:2989
+msgid "Repeat"
+msgstr "Повторить"
+
+#: inc/sektions/ccat-sektions.php:2979
+msgid "Customize the magnitude of the visual effect when scrolling."
+msgstr "Настройте величину визуального эффекта при прокрутке."
+
+#: inc/sektions/ccat-sektions.php:2972
+msgid "Parallax force (in percents)"
+msgstr "Эффект Parallax (в процентах)"
+
+#: inc/sektions/ccat-sektions.php:2942 inc/sektions/ccat-sektions.php:3920
+#: inc/sektions/ccat-sektions.php:4143
+msgid "site wide options"
+msgstr "глобальные настройки сайта"
+
+#: inc/sektions/ccat-sektions.php:2939
+msgid "To ensure better performances, use optimized images for your backgrounds. You can also enable the lazy loading option in the %1$s."
+msgstr "Чтобы обеспечить лучшую производительность, используйте оптимизированные изображения для фона. Опция загрузки в %1$s."
+
+#: inc/sektions/ccat-sektions.php:2733
+msgid "Automatic"
+msgstr "Автоматический"
+
+#: inc/sektions/ccat-sektions.php:2735
+msgid "Fit"
+msgstr "Вместить"
+
+#: inc/sektions/ccat-sektions.php:2822
+msgid "Drag-and-drop or double-click a section to insert it into a drop zone of the preview page."
+msgstr "Перетащите и отпустите или дважды щелкните модуль, чтобы вставить его в зону размещения на странице предварительного просмотра. Перетащите и отпустите или дважды щелкните раздел, чтобы вставить его в зону размещения на странице предварительного просмотра."
+
+#: inc/sektions/ccat-sektions.php:2806
+msgid "Drag-and-drop or double-click a module to insert it into a drop zone of the preview page."
+msgstr "Перетащите и отпустите или дважды щелкните модуль, чтобы вставить его в рабочую зону страницы предварительного просмотра."
+
+#: inc/sektions/ccat-sektions.php:4646
+msgid "Note that some click actions are disabled during customization."
+msgstr "Обратите внимание, что во время настройки существует проблема."
+
+#: inc/sektions/ccat-sektions.php:4642
+msgid "Link to image page"
+msgstr "Ссылка на страницу изображения"
+
+#: inc/sektions/ccat-sektions.php:4641
+msgid "Link to image file"
+msgstr "Ссылка на файл изображения"
+
+#: inc/sektions/ccat-sektions.php:4640
+msgid "Link to site content or custom url"
+msgstr "Ссылка на контент сайта или пользовательский URL"
+
+#: inc/sektions/ccat-sektions.php:4639
+msgid "Lightbox : enlarge the image, and dim out the rest of the content"
+msgstr "Лайтбокс: увеличить изображение остального содержимого"
+
+#: inc/sektions/ccat-sektions.php:4638
+msgid "No click action"
+msgstr "Нет действия при нажатии"
+
+#: inc/sektions/ccat-sektions.php:4635
+msgid "Schedule an action on click or tap"
+msgstr "Запланировать действие при нажатии"
+
+#: inc/sektions/ccat-sektions.php:4631
+msgid "Select a size for this image among those generated by WordPress."
+msgstr "Выберите размер изображения среди генерируемых WordPress."
+
+#: inc/sektions/ccat-sektions.php:1334
+msgid "Add sections in live preview with the Nimble Builder"
+msgstr "Добавляйте разделы в режиме предварительного просмотра с помощью Nimble Builder"
+
+#: inc/sektions/ccat-sektions.php:10149
+msgid "Drag and drop or double-click the content that you want to insert here."
+msgstr "Перетащите или дважды щелкните контент, который вы хотите вставить сюда."
+
+#: inc/sektions/ccat-sektions.php:9626
+msgid "@location"
+msgstr "@location"
+
+#: inc/sektions/ccat-sektions.php:6048
+msgid "Not previewable when customizing."
+msgstr "Не просматривается при настройке."
+
+#: inc/sektions/ccat-sektions.php:6044
+msgid "Button text on mouse hover"
+msgstr "Текст кнопки - при наведение мыши"
+
+#: inc/sektions/ccat-sektions.php:5007
+msgid "Turn into a link"
+msgstr "Превратить в ссылку"
+
+#: inc/sektions/ccat-sektions.php:5003
+msgid "Not previewable during customization"
+msgstr "Не просматривается во время настройки"
+
+#: inc/sektions/ccat-sektions.php:4999
+msgid "Display a text when the mouse is held over"
+msgstr "Отображать текст, когда мышь находится над"
+
+#: inc/sektions/ccat-sektions.php:4685
+msgid "Custom text displayed on mouse hover"
+msgstr "Пользовательский текст отображается при наведении мыши"
+
+#: inc/sektions/ccat-sektions.php:4681
+msgid "If not specified, Nimble will use by order of priority the caption, the description, and the image title. Those properties can be edited for each image in the media library."
+msgstr "Если не указан, Nimble будет использовать в порядке приоритета заголовок и заголовок изображения. Эти свойства можно редактировать для каждого изображения в библиотеке мультимедиа."
+
+#: inc/sektions/ccat-sektions.php:4677
+msgid "Set the text displayed when the mouse is held over"
+msgstr "Установите текст, отображаемый, когда мышь удерживается над"
+
+#: inc/sektions/ccat-czr-sektions.php:844
+msgid "Drag and drop or double-click to insert in your chosen target element."
+msgstr "Перетащите или дважды щелкните, чтобы вставить в выбранный целевой элемент."
+
+#: inc/sektions/ccat-czr-sektions.php:419
+msgid "You first need to click on a target ( with a + icon ) in the preview."
+msgstr "Сначала вам нужно нажать на цель (со значком +) в предварительном просмотре."
+
+#: inc/sektions/ccat-czr-sektions.php:395
+msgid "This page uses a custom template."
+msgstr "Эта страница использует пользовательский шаблон."
+
+#. Author URI of the plugin
+msgid "https://nimblebuilder.com/?utm_source=wp-plugins&utm_medium=wp-dashboard&utm_campaign=author-uri"
+msgstr "https://nimblebuilder.com/?utm_source=wp-plugins&utm_medium=wp-dashboard&utm_campaign=author-uri"
+
+#: inc/sektions/ccat-czr-sektions.php:844
+msgid "Available soon ! This module is currently in beta, you can activate it in Site Wide Options > Beta features"
+msgstr "Скоро будет доступно! Этот модуль в настоящее время находится в бета-версии, вы можете активировать его в разделе Опции сайта > Бета-функции"
+
+#: inc/sektions/ccat-sektions.php:4471
+msgid "Be sure to refresh the customizer before you start using the beta features."
+msgstr "Обязательно обновите настройщик."
+
+#: inc/sektions/ccat-sektions.php:4470
+msgid "Check this option to try the upcoming features of the Nimble Builder. Available beta features as of December 2018 : header and footer customization, menu module, widget area module."
+msgstr "Отметьте эту опцию для следующих функций Nimble Builder. Доступные бета-функции по состоянию на декабрь 2018 года: настройка верхнего и нижнего колонтитула, модуль меню, модуль области виджетов."
+
+#: inc/sektions/ccat-sektions.php:4466
+msgid "Enable beta features"
+msgstr "Включить бета-функции"
+
+#: inc/sektions/ccat-sektions.php:1275
+msgid "WordPress widget area"
+msgstr "Область виджетов WordPress"
+
+#: inc/sektions/ccat-czr-sektions.php:407 inc/sektions/ccat-sektions.php:4461
+msgid "Beta features"
+msgstr "Бета-функции"
+
+#: tmpl/modules/widget_area_module_tmpl.php:20
+msgid "Add widgets to"
+msgstr "Добавить виджеты в"
+
+#: tmpl/modules/widget_area_module_tmpl.php:16
+msgid "Select a Nimble widget area and start adding widgets."
+msgstr "Выберите шуструю область виджетов и начните добавлять виджеты."
+
+#: inc/admin/nimble-admin.php:417
+msgid "read the getting started guide"
+msgstr "прочитайте руководство по началу работы"
+
+#: inc/admin/nimble-admin.php:408
+msgid "Or"
+msgstr "или"
+
+#: inc/admin/nimble-admin.php:404
+msgid "Start creating content in live preview"
+msgstr "Начните создавать контент в режиме предварительного просмотра"
+
+#: inc/admin/nimble-admin.php:395
+msgid "The plugin automatically creates fluid and responsive sections for a pixel-perfect rendering on smartphones and tablets, without the need to add complex code."
+msgstr "Плагин автоматически создает плавные и адаптивные участки для идеального рендеринга на смартфонах и планшетах без необходимости добавлять сложный код."
+
+#: inc/admin/nimble-admin.php:394
+msgid "Nimble allows you to drag and drop content modules, or pre-built section templates, into <u>any context</u> of your site, including search results or 404 pages. You can edit your pages in <i>real time</i> from the live customizer, and then publish when you are happy of the result, or save for later."
+msgstr "Nimble позволяет перетаскивать контентные модули или предварительно созданные шаблоны разделов в <u>любой контекст</u> вашего сайта, включая результаты поиска или 404 страницы. Вы можете редактировать свои страницы в <i>режиме реального времени</i> из живого кастомайзера, а затем публиковать их, когда вы довольны результатом, или сохранить на потом."
+
+#: inc/admin/nimble-admin.php:393
+msgid "The Nimble Builder takes the native WordPress customizer to a level you've never seen before."
+msgstr "Nimble Builder поднимает собственный настройщик WordPress до уровня, который вы никогда раньше не видели."
+
+#: inc/admin/nimble-admin.php:392
+msgid "Welcome to the Nimble Builder for WordPress :D"
+msgstr "Добро пожаловать в Nimble Builder для WordPress :D"
+
+#: inc/admin/nimble-admin.php:297
+msgid "Read the detailled release notes"
+msgstr "Читайте подробные заметки о выпуске"
+
+#: inc/sektions/ccat-sektions.php:10066
+msgid "Start designing the footer"
+msgstr "Начните проектировать нижний колонтитул"
+
+#: inc/sektions/ccat-sektions.php:10066
+msgid "Start designing the header"
+msgstr "Начните проектировать заголовок"
+
+#: inc/sektions/ccat-sektions.php:9034
+msgid "Nimble widget area #%1$s"
+msgstr "Область виджетов Nimble #%1$s"
+
+#: inc/sektions/ccat-sektions.php:7476
+msgid "widget panel"
+msgstr "панель виджетов"
+
+#: inc/sektions/ccat-sektions.php:7473
+msgid "Once you have added a widget area to a section, you can add and edit the WordPress widgets in it in the %1$s."
+msgstr "Добавив виджет в раздел, вы можете добавить его в %1$s."
+
+#: inc/sektions/ccat-sektions.php:7464
+msgid "Widget Zone"
+msgstr "Зона виджетов"
+
+#: inc/sektions/ccat-sektions.php:2783 inc/sektions/ccat-sektions.php:2785
+msgid "header and footer"
+msgstr "заголовок и подвал"
+
+#: inc/sektions/ccat-sektions.php:2777
+msgid "Note : you can %1$s to replace your default theme template. Or design your own %2$s."
+msgstr "Примечание: вы можете %1$s заменить шаблон темы по умолчанию. Или создайте свой собственный %2$s."
+
+#: inc/sektions/ccat-czr-sektions.php:964
+msgid "simple footer with 3 columns and large bottom zone"
+msgstr "простой нижний колонтитул с 3 колонками и большой нижней зоной"
+
+#: inc/sektions/ccat-czr-sektions.php:953
+msgid "simple header with a logo on the right, menu on the left"
+msgstr "простой заголовок с логотипом справа, меню слева"
+
+#: inc/sektions/ccat-czr-sektions.php:376 inc/sektions/ccat-sektions.php:2895
+msgid "Footer sections"
+msgstr "Разделы подвала"
+
+#: inc/sektions/ccat-czr-sektions.php:375 inc/sektions/ccat-sektions.php:2883
+msgid "Header sections"
+msgstr "Разделы заголовка"
+
+#: inc/sektions/ccat-czr-sektions.php:369
+msgid "You can't drop a footer section in the header location"
+msgstr "Вы не можете удалить раздел нижнего колонтитула в расположении заголовка"
+
+#: inc/sektions/ccat-czr-sektions.php:368
+msgid "You can't drop a header section in the footer location"
+msgstr "Вы не можете удалить заголовок раздела в расположении нижнего колонтитула"
+
+#: inc/sektions/ccat-czr-sektions.php:367
+msgid "The footer location only accepts modules and pre-built footer sections"
+msgstr "Расположение нижнего колонтитула принимает только модули и предварительно созданные разделы нижнего колонтитула"
+
+#: inc/sektions/ccat-czr-sektions.php:366
+msgid "The header location only accepts modules and pre-built header sections"
+msgstr "Расположение заголовка принимает только модули и предварительно созданные разделы заголовка"
+
+#: inc/sektions/ccat-czr-sektions.php:72 inc/sektions/ccat-sektions.php:7469
+msgid "Select a widget area"
+msgstr "Выберите область виджета"
+
+#. Plugin Name of the plugin
+msgid "Nimble Page Builder"
+msgstr "Nimble Page Builder"
+
+#: tmpl/modules/menu_module_tmpl.php:15
+msgid "Toggle navigation"
+msgstr "Переключить навигацию"
+
+#: inc/sektions/ccat-sektions.php:10144
+msgid "Drag and drop a block of content here"
+msgstr "Перетащите блок контента сюда"
+
+#: inc/sektions/ccat-sektions.php:9631
+msgid "footer section"
+msgstr "нижний колонтитул"
+
+#: inc/sektions/ccat-sektions.php:9630
+msgid "header section"
+msgstr "раздел заголовка"
+
+#: inc/sektions/ccat-sektions.php:7277
+msgid "menu panel"
+msgstr "панель меню"
+
+#: inc/sektions/ccat-sektions.php:7274
+msgid "You can create and edit menus in the %1$s. If you just created a new menu, publish and refresh the customizer to see in the dropdown list."
+msgstr "Вы можете создавать и редактировать меню в %1$s. Если вы только что создали новое меню, опубликуйте и обновите настройщик в раскрывающемся списке."
+
+#: inc/sektions/ccat-sektions.php:7271
+msgid "Select a menu"
+msgstr "Выберите меню"
+
+#: inc/sektions/ccat-sektions.php:7266
+msgid "Menu content"
+msgstr "Содержание меню"
+
+#: inc/sektions/ccat-sektions.php:4366
+msgid "The Nimble Builder allows you to build your own header and footer, or to use your theme's ones. This option can be overriden in the %1$s."
+msgstr "Nimble Builder позволяет создавать собственные верхний и нижний колонтитулы. Эта опция может быть переопределена в %1$s."
+
+#: inc/sektions/ccat-sektions.php:4360
+msgid "Select a site wide header and footer"
+msgstr "Выберите заголовок и нижний колонтитул сайта"
+
+#: inc/sektions/ccat-sektions.php:4355
+msgid "Site wide header"
+msgstr "Широкий заголовок сайта"
+
+#: inc/sektions/ccat-sektions.php:4212
+msgid "The inner and outer widths of your sections can be set globally here, but also overriden in the %1$s, and for each sections."
+msgstr "Внутренняя и внешняя ширина ваших разделов может быть установлена в %1$s, и для каждого раздела."
+
+#: inc/sektions/ccat-sektions.php:4165
+msgid "This is the breakpoint under which columns are reorganized vertically. The default global breakpoint is 768px. A custom breakpoint can also be set for each section."
+msgstr "Столбцы реорганизованы вертикально. Глобальная точка остановки по умолчанию - 768 пикселей. Настраиваемая точка остановки также может быть установлена для каждого раздела."
+
+#: inc/sektions/ccat-sektions.php:4140
+msgid "This option overrides the site wide header and footer options set in the %1$s for this page only."
+msgstr "Эта опция доступна на сайте %1$s только для этой страницы."
+
+#: inc/sektions/ccat-sektions.php:4135
+msgid "Nimble specific header and footer for this page ( beta )"
+msgstr "Ловкий специфический колонтитул для этой страницы (бета)"
+
+#: inc/sektions/ccat-sektions.php:4134 inc/sektions/ccat-sektions.php:4364
+msgid "Nimble site wide header and footer ( beta )"
+msgstr "Шустрый сайт с широкими колонтитулами (бета)"
+
+#: inc/sektions/ccat-sektions.php:4133 inc/sektions/ccat-sektions.php:4363
+msgid "Use the active theme's header and footer"
+msgstr "Использовать верхний и нижний колонтитулы активной темы"
+
+#: inc/sektions/ccat-sektions.php:4129
+msgid "Select a header and a footer for this page"
+msgstr "Выберите верхний и нижний колонтитулы для этой страницы"
+
+#: inc/sektions/ccat-sektions.php:4124
+msgid "Page header"
+msgstr "Заголовок страницы"
+
+#: inc/sektions/ccat-sektions.php:4050
+msgid "The CSS code added below will only be applied to the currently previewed page, not site wide."
+msgstr "Код CSS, добавленный ниже, будет применяться только к просматриваемой в данный момент странице, а не ко всему сайту."
+
+#: inc/sektions/ccat-sektions.php:3917
+msgid "The inner and outer widths of the sections displayed in this page can be set here. It will override in the %1$s. You can also set a custom inner and outer width for each single sections."
+msgstr "Внутренняя и внешняя ширина секций, отображаемых на этой странице, может быть установлена здесь. Он будет переопределен в %1$s. Вы также можете установить собственную внутреннюю и внешнюю ширину для каждого отдельного раздела."
+
+#: inc/sektions/ccat-sektions.php:3894
+msgid "Use the Nimble Builder template to display content created only with the Nimble Builder on this page. Your theme's default template will be overriden"
+msgstr "Используйте шаблон Nimble Builder для отображения содержимого, созданного только с помощью Nimble Builder, на этой странице. Шаблон по умолчанию вашей темы будет переопределен"
+
+#: inc/sektions/ccat-sektions.php:3891
+msgid "Nimble Builder template"
+msgstr "Nimble Builder шаблон"
+
+#: inc/sektions/ccat-sektions.php:1100
+msgid "Default page menu"
+msgstr "Меню страницы по умолчанию"
+
+#: inc/sektions/ccat-sektions.php:1033
+msgid "Pages"
+msgstr "Страницы"
+
+#: inc/sektions/ccat-sektions.php:995
+msgid "Home"
+msgstr "Главная"
+
+#: inc/sektions/ccat-sektions.php:1282 inc/sektions/ccat-sektions.php:7250
+msgid "Menu"
+msgstr "Меню"
+
+#: inc/sektions/ccat-czr-sektions.php:402
+msgid "Site wide header and footer"
+msgstr "Верхний и нижний колонтитулы сайта"
+
+#: inc/sektions/ccat-czr-sektions.php:396
+msgid "Page header and footer"
+msgstr "Верхний и нижний колонтитулы страницы"
+
+#: inc/sektions/ccat-sektions.php:9699
+msgid "Drag section"
+msgstr "Перетащите раздел"
+
+#: inc/sektions/ccat-sektions.php:9696
+msgid "Move section down"
+msgstr "Переместить раздел вниз"
+
+#: inc/sektions/ccat-sektions.php:9693
+msgid "Move section up"
+msgstr "Переместить раздел вверх"
+
+#: inc/sektions/ccat-sektions.php:9637
+msgid "Link deactivated while previewing"
+msgstr "При просмотре ссылка деактивируется"
+
+#: inc/sektions/ccat-sektions.php:10144
+msgid "Drag and drop a section or a module here"
+msgstr "Перетащите раздел или модуль сюда"
+
+#: inc/sektions/ccat-sektions.php:9636
+msgid "External links are disabled when customizing"
+msgstr "Внешние ссылки отключены при настройке"
+
+#: inc/sektions/ccat-sektions.php:9635
+msgid "Shift-click to visit the link"
+msgstr "Нажмите-Shift, чтобы перейти по ссылке"
+
+#: tmpl/header/nimble_header_tmpl.php:17
+msgid "Skip to content"
+msgstr "Перейти к содержанию"
+
+#: inc/sektions/ccat-sektions.php:9627
+msgid "Insert a new global section"
+msgstr "Вставить новый глобальный раздел"
+
+#: inc/sektions/ccat-sektions.php:9620
+msgid "Moving elements between global and local sections is not allowed."
+msgstr "Перемещение элементов между глобальным и локальным разделами не допускается."
+
+#. Description of the plugin
+msgid "Powerful drag and drop page builder using the native WordPress customizer."
+msgstr "Мощный перетаскиватель страниц с помощью собственного настройщика WordPress."
+
+#: inc/sektions/ccat-sektions.php:9708
+msgid "Save this section"
+msgstr "Сохранить этот раздел"
+
+#: inc/sektions/ccat-sektions.php:9373 inc/sektions/ccat-sektions.php:9423
+msgid "sek_ajax_save_section => check_ajax_referer() failed."
+msgstr "sek_ajax_save_section => check_ajax_referer() не удалось."
+
+#: inc/sektions/ccat-sektions.php:2913
+msgid "My sections"
+msgstr "Мои разделы"
+
+#: inc/sektions/ccat-sektions.php:1815 inc/sektions/ccat-sektions.php:1816
+msgid "Nimble saved sections"
+msgstr "Шустрые сохраненные разделы"
+
+#: inc/sektions/ccat-czr-sektions.php:543
+#: inc/sektions/ccat-czr-sektions.php:544
+msgid "Save"
+msgstr "Сохранить"
+
+#: inc/sektions/ccat-czr-sektions.php:539
+msgid "Section description"
+msgstr "Описание раздела"
+
+#: inc/sektions/ccat-czr-sektions.php:535
+msgid "Section title"
+msgstr "Название раздела"
+
+#: inc/sektions/ccat-sektions.php:11432
+msgid "Message body"
+msgstr "Тело сообщения"
+
+#: inc/sektions/ccat-sektions.php:11416
+msgid "From"
+msgstr "От"
+
+#: inc/sektions/ccat-sektions.php:2967
+msgid "When enabled, the background image moves slower than the page elements on scroll. This effect is not enabled on mobile devices."
+msgstr "Когда эта функция включена, фоновое изображение движется медленнее, чем элементы страницы при прокрутке. Этот эффект не включен на мобильных устройствах."
+
+#: inc/sektions/ccat-sektions.php:2963
+msgid "Parallax effect on scroll"
+msgstr "Эффект прокрутки Parallax"
+
+#: inc/sektions/ccat-sektions.php:4341
+msgid "Check this option to delay the loading of non visible images. Images below the window will be dynamically loaded when scrolling. This can improve performance by reducing the weight of long web pages including multiple images."
+msgstr "Проверьте невидимые изображения. Изображения при загрузке динамически загружаются. Это лучший способ улучшить качество изображений."
+
+#: inc/sektions/ccat-sektions.php:4336
+msgid "Load images on scroll"
+msgstr "Загрузить изображения на прокрутке"
+
+#: inc/sektions/ccat-sektions.php:4331
+msgid "Site wide performance options"
+msgstr "Широкие возможности производительности сайта"
+
+#: inc/sektions/ccat-sektions.php:4109
+msgid "When you select \"Load images on scroll\", images below the window are loaded dynamically when scrolling. This can improve performance by reducing the weight of long web pages including multiple images."
+msgstr "При выборе «Загрузить изображения при прокрутке» изображения под окном загружаются динамически при прокрутке. Это может повысить производительность за счет уменьшения веса длинных веб-страниц, включая несколько изображений."
+
+#: inc/sektions/ccat-sektions.php:4106
+msgid "Load all images on page load ( not optimized )"
+msgstr "Загрузить все изображения при загрузке страницы ( не оптимизировано )"
+
+#: inc/sektions/ccat-sektions.php:4105
+msgid "Load images on scroll ( optimized )"
+msgstr "Загрузка изображений при прокрутке ( оптимизировано )"
+
+#: inc/sektions/ccat-sektions.php:4104 inc/sektions/ccat-sektions.php:4132
+msgid "Inherit the site wide option"
+msgstr "Наследовать сайт широким вариантом"
+
+#: inc/sektions/ccat-sektions.php:4101
+msgid "Select how you want to load the images in the sections of this page."
+msgstr "Выберите, как вы хотите загрузить изображения в разделах этой страницы."
+
+#: inc/sektions/ccat-sektions.php:4096
+msgid "Performance optimizations"
+msgstr "Оптимизация производительности"
+
+#: inc/sektions/ccat-sektions.php:3786
+msgid "Note that those options are not applied during the live customization of your site, but only when the changes are published."
+msgstr "Обратите внимание, что эти изменения не публикуются."
+
+#: inc/sektions/ccat-czr-sektions.php:406
+msgid "Site wide page speed optimizations"
+msgstr "Оптимизация скорости страницы на всем сайте"
+
+#: inc/sektions/ccat-czr-sektions.php:400
+msgid "Page speed optimizations"
+msgstr "Оптимизация скорости страницы"
+
+#: inc/admin/nimble-admin.php:302
+msgid "close"
+msgstr "закрыть"
+
+#: inc/admin/nimble-admin.php:289
+msgid "to version"
+msgstr "к версии"
+
+#: inc/admin/nimble-admin.php:287
+msgid "Thanks, you successfully upgraded"
+msgstr "Спасибо, вы успешно обновились"
+
+#: inc/admin/nimble-admin.php:32
+msgid "To copy the system infos, click below then press Ctrl + C (PC) or Cmd + C (Mac)."
+msgstr "Чтобы скопировать системную информацию, нажмите ниже, затем нажмите Ctrl + C (ПК) или Cmd + C (Mac)."
+
+#: inc/admin/nimble-admin.php:31
+msgid "Please include your system informations when posting support requests."
+msgstr "Пожалуйста, включайте информацию о вашей системе при публикации запросов поддержки."
+
+#: inc/admin/nimble-admin.php:30
+msgid "System Informations"
+msgstr "Системная информация"
+
+#: inc/admin/nimble-admin.php:24
+msgid "System infos"
+msgstr "Системная информация"
+
+#: inc/sektions/ccat-sektions.php:7082
+msgid "Form submission options"
+msgstr "Варианты отправки формы"
+
+#: inc/sektions/ccat-sektions.php:6520
+msgid "Form button design"
+msgstr "Дизайн кнопки"
+
+#: inc/sektions/ccat-sektions.php:6444
+msgid "Form fields design"
+msgstr "Дизайн полей формы"
+
+#: inc/sektions/ccat-sektions.php:6344
+msgid "Form fields and button labels"
+msgstr "Поля формы и метки кнопок"
+
+#: inc/sektions/ccat-czr-sektions.php:921
+msgid "A contact form with an image background"
+msgstr "Контактная форма с фоном изображения"
+
+#: inc/sektions/ccat-czr-sektions.php:915
+msgid "A contact form and a Google map"
+msgstr "Контактная форма и карта Google"
+
+#: inc/sektions/ccat-czr-sektions.php:373 inc/sektions/ccat-sektions.php:2857
+msgid "Contact-us sections"
+msgstr "Разделы Обратная связь"
+
+#: inc/sektions/ccat-czr-sektions.php:688
+#: inc/sektions/ccat-czr-sektions.php:689
+msgid "Resize the editor"
+msgstr "Изменить размер редактора"
+
+#: inc/sektions/ccat-sektions.php:11534
+msgid "This e-mail was sent from a contact form on %1$s (%2$s)"
+msgstr "Это электронное письмо было отправлено из контактной формы %1$s (%2$s)"
+
+#: inc/sektions/ccat-sektions.php:11529
+msgid "Message Body:"
+msgstr "Тело сообщения:"
+
+#. translators: %s: [your-subject]
+#: inc/sektions/ccat-sektions.php:11527
+msgid "Subject: %s"
+msgstr "Тема: %s"
+
+#. translators: %s: [your-name] <[your-email]>
+#: inc/sektions/ccat-sektions.php:11524
+msgid "From: %s"
+msgstr "От: %s"
+
+#: inc/sektions/ccat-sektions.php:11518
+msgid "%1$s: new contact request"
+msgstr "%1$s: новый контакт"
+
+#: inc/sektions/ccat-sektions.php:11414
+msgid "Someone sent a message from %1$s"
+msgstr "Кто-то отправил сообщение от %1$s"
+
+#: inc/sektions/ccat-sektions.php:11329
+msgid "Please supply correct information."
+msgstr "Пожалуйста, предоставьте правильную информацию."
+
+#: inc/sektions/ccat-sektions.php:11270
+msgid "Contact"
+msgstr "Контакт"
+
+#: inc/sektions/ccat-sektions.php:11120
+msgid "An email subject"
+msgstr "Тема письма"
+
+#: inc/sektions/ccat-sektions.php:11117
+msgid "john@doe.com"
+msgstr "john@doe.com"
+
+#: inc/sektions/ccat-sektions.php:11114
+msgid "John Doe"
+msgstr "Джон Доу"
+
+#: inc/sektions/ccat-sektions.php:6422 inc/sektions/ccat-sektions.php:10631
+msgid "Submit"
+msgstr "Отправить"
+
+#: inc/sektions/ccat-sektions.php:9732 inc/sektions/ccat-sektions.php:9759
+#: inc/sektions/ccat-sektions.php:9791
+msgid "Hide this menu if you need to access behind"
+msgstr "Скрыть это меню, если вам нужен доступ"
+
+#: inc/sektions/ccat-czr-sektions.php:415 inc/sektions/ccat-sektions.php:9633
+msgid "nested section"
+msgstr "вложенный раздел"
+
+#: inc/sektions/ccat-sektions.php:7432
+msgid "Apply the style options in priority (uses !important)."
+msgstr "Применить параметры стиля в приоритетном порядке (использует! Важно)."
+
+#: inc/sektions/ccat-sektions.php:7328
+msgid "Text settings : font, color, size, ..."
+msgstr "Настройки текста: шрифт, цвет, размер, ..."
+
+#: inc/sektions/ccat-sektions.php:7125
+msgid "Html code is allowed"
+msgstr "HTML код разрешен"
+
+#: inc/sektions/ccat-sektions.php:7124
+msgid "Email footer"
+msgstr "Нижний колонтитул электронной почты"
+
+#: inc/sektions/ccat-sektions.php:7118
+msgid "Your message was not sent. Try Again."
+msgstr "Ваше сообщение не было отправлено. Попробуйте снова."
+
+#: inc/sektions/ccat-sektions.php:7116
+msgid "Failure message on submission"
+msgstr "Сообщение об ошибке отправляется"
+
+#: inc/sektions/ccat-sektions.php:7109
+msgid "Invalid form submission : some fields have not been entered properly."
+msgstr "Неверная отправка формы: некоторые поля были заполнены правильно."
+
+#: inc/sektions/ccat-sektions.php:7107
+msgid "Error message on submission"
+msgstr "Сообщение об ошибке отправляется"
+
+#: inc/sektions/ccat-sektions.php:7099
+msgid "Thanks! Your message has been sent."
+msgstr "Спасибо! Ваше сообщение было отправлено."
+
+#: inc/sektions/ccat-sektions.php:7097
+msgid "Success message on submission"
+msgstr "Успешно"
+
+#: inc/sektions/ccat-sektions.php:7089
+msgid "Email recipient"
+msgstr "Получатель электронной почты"
+
+#: inc/sektions/ccat-sektions.php:6796
+msgid "Field Text"
+msgstr "Текст поля"
+
+#: inc/sektions/ccat-sektions.php:6661
+msgid "Fields labels"
+msgstr "Метки полей"
+
+#: inc/sektions/ccat-sektions.php:6655
+msgid "Form texts options : fonts, colors, ..."
+msgstr "Варианты текстовых форм: шрифты, цвета, ..."
+
+#: inc/sektions/ccat-sektions.php:6500
+msgid "Apply an outset shadow"
+msgstr "Применить начальную тень"
+
+#: inc/sektions/ccat-sektions.php:6495
+msgid "Apply an inset shadow"
+msgstr "Нанести тень"
+
+#: inc/sektions/ccat-sektions.php:6482
+msgid "Fields rounded corners"
+msgstr "Поля закругленные углы"
+
+#: inc/sektions/ccat-sektions.php:6468
+msgid "Borders options"
+msgstr "Варианты границ"
+
+#: inc/sektions/ccat-sektions.php:6461
+msgid "Fields border shape"
+msgstr "Форма полей полей"
+
+#: inc/sektions/ccat-sektions.php:6450
+msgid "Fields background color"
+msgstr "Цвет фона полей"
+
+#: inc/sektions/ccat-sektions.php:6415 inc/sektions/ccat-sektions.php:10612
+msgid "Email"
+msgstr "Email"
+
+#: inc/sektions/ccat-sektions.php:6414
+msgid "Email field label"
+msgstr "Метка поля электронной почты"
+
+#: inc/sektions/ccat-sektions.php:6405
+msgid "Message field is required"
+msgstr "Поле сообщения обязательно для заполнения"
+
+#: inc/sektions/ccat-sektions.php:6401 inc/sektions/ccat-sektions.php:10623
+msgid "Message"
+msgstr "Сообщение"
+
+#: inc/sektions/ccat-sektions.php:6400
+msgid "Message field label"
+msgstr "Метка поля сообщения"
+
+#: inc/sektions/ccat-sektions.php:6392
+msgid "Display message field"
+msgstr "Показать поле сообщения"
+
+#: inc/sektions/ccat-sektions.php:6384
+msgid "Subject field is required"
+msgstr "Поле обязательно для заполнения"
+
+#: inc/sektions/ccat-sektions.php:6380 inc/sektions/ccat-sektions.php:10618
+#: inc/sektions/ccat-sektions.php:11417
+msgid "Subject"
+msgstr "Тема"
+
+#: inc/sektions/ccat-sektions.php:6379
+msgid "Subject field label"
+msgstr "Метка поля темы"
+
+#: inc/sektions/ccat-sektions.php:6371
+msgid "Display subject field"
+msgstr "Отобразить поле темы"
+
+#: inc/sektions/ccat-sektions.php:6363
+msgid "Name field is required"
+msgstr "Поле имя обязательно для заполнения"
+
+#: inc/sektions/ccat-sektions.php:6359 inc/sektions/ccat-sektions.php:10606
+msgid "Name"
+msgstr "Имя"
+
+#: inc/sektions/ccat-sektions.php:6358
+msgid "Name field label"
+msgstr "Имя поля метки"
+
+#: inc/sektions/ccat-sektions.php:6350
+msgid "Display name field"
+msgstr "Поле отображаемого имени"
+
+#: inc/sektions/ccat-sektions.php:6314 inc/sektions/ccat-sektions.php:7126
+#: inc/sektions/ccat-sektions.php:11423
+msgid "This e-mail was sent from a contact form on %1$s (<a href=\"%2$s\" target=\"_blank\">%2$s</a>)"
+msgstr "Это сообщение было отправлено из контактной формы на %1$s (<a href=\"%2$s\" target=\"_blank\">%2$s</a>)"
+
+#: inc/sektions/ccat-sektions.php:6293
+msgid "Simple Form"
+msgstr "Простая форма"
+
+#: inc/sektions/ccat-sektions.php:6199 inc/sektions/ccat-sektions.php:6623
+msgid "Push visual effect"
+msgstr "Визуальный эффект"
+
+#: inc/sektions/ccat-sektions.php:6165 inc/sektions/ccat-sektions.php:6588
+msgid "Button alignment"
+msgstr "Выравнивание кнопок"
+
+#: inc/sektions/ccat-sektions.php:6122 inc/sektions/ccat-sektions.php:6545
+msgid "Background color on mouse hover"
+msgstr "Цвет фона при наведении мыши"
+
+#: inc/sektions/ccat-sektions.php:6113 inc/sektions/ccat-sektions.php:6536
+msgid "Set a custom background color on mouse hover"
+msgstr "Установить пользовательский цвет фона при наведении мыши"
+
+#: inc/sektions/ccat-sektions.php:6099
+msgid "Button design"
+msgstr "Дизайн кнопки"
+
+#: inc/sektions/ccat-sektions.php:6079
+msgid "Icon's position"
+msgstr "Позиция иконки"
+
+#: inc/sektions/ccat-sektions.php:6075
+msgid "Icon next to the button text"
+msgstr "Значок рядом с текстом кнопки"
+
+#: inc/sektions/ccat-sektions.php:6038 inc/sektions/ccat-sektions.php:6421
+msgid "Button text"
+msgstr "Текст кнопки"
+
+#: inc/sektions/ccat-sektions.php:6033
+msgid "Button content"
+msgstr "Содержание кнопки"
+
+#: inc/sektions/ccat-sektions.php:6004
+msgid "Click me"
+msgstr "Нажмите меня"
+
+#: inc/sektions/ccat-sektions.php:5948
+msgid "Icon Color"
+msgstr "Цвет иконки"
+
+#: inc/sektions/ccat-sektions.php:5936
+msgid "Icon Size"
+msgstr "Размер иконки"
+
+#: inc/sektions/ccat-sektions.php:5914
+msgid "Border weight"
+msgstr "Толщина границы"
+
+#: inc/sektions/ccat-sektions.php:5903 inc/sektions/ccat-sektions.php:5908
+msgid "Design"
+msgstr "Дизайн"
+
+#: inc/sektions/ccat-sektions.php:5745
+msgid "Cite text"
+msgstr "Цитировать текст"
+
+#: inc/sektions/ccat-sektions.php:5740
+msgid "Cite content"
+msgstr "Цитировать содержание"
+
+#: inc/sektions/ccat-sektions.php:5617 inc/sektions/ccat-sektions.php:5775
+#: inc/sektions/ccat-sektions.php:6688 inc/sektions/ccat-sektions.php:6823
+#: inc/sektions/ccat-sektions.php:6958 inc/sektions/ccat-sektions.php:7353
+msgid "Line height"
+msgstr "Высота линии"
+
+#: inc/sektions/ccat-sektions.php:5604 inc/sektions/ccat-sektions.php:5762
+#: inc/sektions/ccat-sektions.php:6677 inc/sektions/ccat-sektions.php:6812
+#: inc/sektions/ccat-sektions.php:6947 inc/sektions/ccat-sektions.php:7342
+msgid "Font size"
+msgstr "Размер шрифта"
+
+#: inc/sektions/ccat-sektions.php:5590
+msgid "You may use some html tags like a, br,p, div, span with attributes like style, id, class ..."
+msgstr "Вы можете использовать некоторые HTML-теги, такие как a, br, p, div, span, с такими атрибутами, как style, id, class ..."
+
+#: inc/sektions/ccat-sektions.php:5587
+msgid "Quote text"
+msgstr "Текст цитаты"
+
+#: inc/sektions/ccat-sektions.php:5582
+msgid "Quote content"
+msgstr "Цитировать содержание"
+
+#: inc/sektions/ccat-sektions.php:5549
+msgid "The Dude in %1s"
+msgstr "Чувак в %1s"
+
+#: inc/sektions/ccat-sektions.php:5546
+msgid "Hey, careful, man, there's a beverage here!"
+msgstr "Эй, осторожно, чувак, здесь есть напиток!"
+
+#: inc/sektions/ccat-sektions.php:5501
+msgid "Height"
+msgstr "Высота"
+
+#: inc/sektions/ccat-sektions.php:5492
+msgid "Zoom"
+msgstr "Приблизить"
+
+#: inc/sektions/ccat-sektions.php:5486
+msgid "Address"
+msgstr "Адрес"
+
+#: inc/sektions/ccat-sektions.php:5347
+msgid "Icon options for background, spacing, border, shadow"
+msgstr "Варианты значков для фона, интервалов, границ, теней"
+
+#: inc/sektions/ccat-sektions.php:5321
+msgid "Hover color"
+msgstr "Наведите цвет"
+
+#: inc/sektions/ccat-sektions.php:5312
+msgid "Set a custom icon color on mouse hover"
+msgstr "Установить пользовательский цвет значка мыши"
+
+#: inc/sektions/ccat-sektions.php:5280
+msgid "Size"
+msgstr "Размер"
+
+#: inc/sektions/ccat-sektions.php:5253
+msgid "Select an Icon"
+msgstr "Выберите иконку"
+
+#: inc/sektions/ccat-sektions.php:5247
+msgid "Icon settings"
+msgstr "Настройки иконки"
+
+#: inc/sektions/ccat-sektions.php:5188
+msgid "Space before and after"
+msgstr "Пространство до и после"
+
+#: inc/sektions/ccat-sektions.php:5145 inc/sektions/ccat-sektions.php:5303
+msgid "Color"
+msgstr "Цвет"
+
+#: inc/sektions/ccat-sektions.php:5136
+msgid "Style"
+msgstr "Стиль"
+
+#: inc/sektions/ccat-sektions.php:5125
+msgid "Weight"
+msgstr "Вес"
+
+#: inc/sektions/ccat-sektions.php:2993 inc/sektions/ccat-sektions.php:5097
+msgid "Space"
+msgstr "Отступ"
+
+#: inc/sektions/ccat-sektions.php:5048
+msgid "Margin and padding"
+msgstr "Параметры отступов и полей"
+
+#: inc/sektions/ccat-sektions.php:5043 inc/sektions/ccat-sektions.php:5353
+#: inc/sektions/ccat-sektions.php:6176 inc/sektions/ccat-sektions.php:6599
+msgid "Spacing"
+msgstr "Расстояние"
+
+#: inc/sektions/ccat-sektions.php:4983
+msgid "Heading tag"
+msgstr "Заголовок тег"
+
+#: inc/sektions/ccat-sektions.php:4978 inc/sektions/ccat-sektions.php:5748
+msgid "You may use some html tags like a, br, span with attributes like style, id, class ..."
+msgstr "Вы можете использовать некоторые HTML-теги, такие как, например, стиль, идентификатор, класс ..."
+
+#: inc/sektions/ccat-sektions.php:4975
+msgid "Heading text"
+msgstr "Текст заголовка"
+
+#: inc/sektions/ccat-sektions.php:4925
+msgid "Read More"
+msgstr "Читать дальше"
+
+#: inc/sektions/ccat-sektions.php:4924
+msgid "Custom button text"
+msgstr "Пользовательский текст кнопки"
+
+#: inc/sektions/ccat-sektions.php:4917
+msgid "Display a call to action button"
+msgstr "Отображение кнопки призыва к действию"
+
+#: inc/sektions/ccat-sektions.php:4912
+msgid "Custom text content"
+msgstr "Пользовательский текст"
+
+#: inc/sektions/ccat-sektions.php:4906
+msgid "Display a text"
+msgstr "Показать текст"
+
+#: inc/sektions/ccat-sektions.php:4884
+msgid "Pick a page"
+msgstr "Выберите страницу"
+
+#: inc/sektions/ccat-sektions.php:4876 inc/sektions/ccat-sektions.php:4889
+msgid "Display an image"
+msgstr "Показать изображение"
+
+#: inc/sektions/ccat-sektions.php:4871
+msgid "Featured Pages"
+msgstr "Избранные страницы"
+
+#: inc/sektions/ccat-sektions.php:4738
+msgid "Borders and corners"
+msgstr "Границы и углы"
+
+#: inc/sektions/ccat-sektions.php:4715
+msgid "Mouse over effect"
+msgstr "Мышь над эффектом"
+
+#: inc/sektions/ccat-sektions.php:4698 inc/sektions/ccat-sektions.php:5154
+msgid "Width"
+msgstr "Ширина"
+
+#: inc/sektions/ccat-sektions.php:4692
+msgid "Custom image width"
+msgstr "Пользовательская ширина изображения"
+
+#: inc/sektions/ccat-sektions.php:4618
+msgid "Image main settings"
+msgstr "Основные настройки изображения"
+
+#: inc/sektions/ccat-sektions.php:4573
+msgid "WordPress wraps the editor text inside \"p\" tags by default. You can disable this behaviour by unchecking this option."
+msgstr "WordPress по умолчанию переносит текст редактора в теги \"p\". Сняв флажок с этой опции."
+
+#: inc/sektions/ccat-sektions.php:4569
+msgid "Automatically convert text into paragraph"
+msgstr "Автоматически конвертировать текст в абзац"
+
+#: inc/sektions/ccat-sektions.php:4492
+msgid "HTML Content"
+msgstr "Содержание HTML"
+
+#: inc/sektions/ccat-sektions.php:10276
+msgid "Html code goes here"
+msgstr "HTML код"
+
+#: inc/sektions/ccat-sektions.php:4231
+msgid "Define a custom inner width for the sections site wide"
+msgstr "Определить собственную внутреннюю ширину для разделов сайта"
+
+#: inc/sektions/ccat-sektions.php:4227 inc/sektions/ccat-sektions.php:4246
+msgid "This option will be inherited by all Nimble sections of your site, unless for pages or sections with specific width options."
+msgstr "Эта опция будет унаследована всеми подписчиками."
+
+#: inc/sektions/ccat-sektions.php:4205
+msgid "Define a custom outer width for the sections site wide"
+msgstr "Определите пользовательскую внешнюю ширину для широких разделов сайта"
+
+#: inc/sektions/ccat-sektions.php:4200
+msgid "Site wide width options"
+msgstr "Варианты ширины сайта"
+
+#: inc/sektions/ccat-sektions.php:4161
+msgid "Use a global custom breakpoint for the vertical reorganization of columns"
+msgstr "Используйте глобальную настраиваемую точку остановки для столбцов"
+
+#: inc/sektions/ccat-sektions.php:4156
+msgid "Site wide breakpoint options"
+msgstr "Широкие возможности точки остановки на сайте"
+
+#: inc/sektions/ccat-sektions.php:4083
+msgid "This will reset the sections created for the currently previewed page only. All other sections in other contexts will be preserved."
+msgstr "Это приведет к сбросу разделов, созданных только для предварительно просматриваемой страницы. Все остальные разделы в других контекстах будут сохранены."
+
+#: inc/sektions/ccat-sektions.php:4081
+msgid "Remove the Nimble sections in the current page"
+msgstr "Удалить проворные разделы на текущей странице"
+
+#: inc/sektions/ccat-sektions.php:4076
+msgid "Reset the sections of the current page"
+msgstr "Сбросить разделы текущей страницы"
+
+#: inc/sektions/ccat-sektions.php:4048
+msgid "Add your own CSS code here"
+msgstr "Добавьте свой собственный код CSS здесь"
+
+#: inc/sektions/ccat-sektions.php:4047
+msgid "Custom css"
+msgstr "Пользовательские CSS"
+
+#: inc/sektions/ccat-sektions.php:4042
+msgid "Custom CSS for the sections of the current page"
+msgstr "Пользовательский CSS для разделов текущей страницы"
+
+#: inc/sektions/ccat-sektions.php:3947 inc/sektions/ccat-sektions.php:4240
+msgid "Inner sections width"
+msgstr "Ширина внутренних секций"
+
+#: inc/sektions/ccat-sektions.php:3938
+msgid "Define a custom inner width for the sections of this page"
+msgstr "Определите собственную внутреннюю ширину для разделов этой страницы"
+
+#: inc/sektions/ccat-sektions.php:3934 inc/sektions/ccat-sektions.php:3955
+msgid "This option will be inherited by all Nimble sections of the currently previewed page, unless for sections with a specific width option."
+msgstr "Эта опция будет унаследована всеми подписчиками."
+
+#: inc/sektions/ccat-sektions.php:3926 inc/sektions/ccat-sektions.php:4221
+msgid "Outer sections width"
+msgstr "Ширина наружных секций"
+
+#: inc/sektions/ccat-sektions.php:3910
+msgid "Define a custom outer width for the sections of this page"
+msgstr "Определите пользовательскую внешнюю ширину для разделов этой страницы"
+
+#: inc/sektions/ccat-sektions.php:3905
+msgid "Width settings of the sections in the current page"
+msgstr "Настройки ширины разделов на текущей странице"
+
+#: inc/sektions/ccat-sektions.php:3886
+msgid "Select a template"
+msgstr "Выберите шаблон"
+
+#: inc/sektions/ccat-sektions.php:3880
+msgid "Template for the current page"
+msgstr "Шаблон для текущей страницы"
+
+#: inc/sektions/ccat-sektions.php:3826
+msgid "Reverse the columns direction on devices smaller than the breakpoint."
+msgstr "Измените направление столбцов на устройствах меньше точки останова."
+
+#: inc/sektions/ccat-sektions.php:3822
+msgid "This is the breakpoint under which columns are reorganized vertically. The default breakpoint is 768px."
+msgstr "Столбцы реорганизованы вертикально. Точка остановки по умолчанию - 768 пикселей."
+
+#: inc/sektions/ccat-sektions.php:3813 inc/sektions/ccat-sektions.php:4169
+msgid "Define a custom breakpoint in pixels"
+msgstr "Определить пользовательскую точку остановки в пикселях"
+
+#: inc/sektions/ccat-sektions.php:3804
+msgid "Use a custom breakpoint for the vertical reorganization of columns"
+msgstr "Используйте пользовательскую точку остановки для вертикальной реорганизации столбцов"
+
+#: inc/sektions/ccat-sektions.php:3799
+msgid "Set a custom breakpoint"
+msgstr "Установить пользовательскую точку остановки"
+
+#: inc/sektions/ccat-sektions.php:3780
+msgid "Visible on mobile devices"
+msgstr "Видно на мобильных устройствах"
+
+#: inc/sektions/ccat-sektions.php:3771
+msgid "Visible on tablet devices"
+msgstr "Видно на планшетных устройствах"
+
+#: inc/sektions/ccat-sektions.php:3762
+msgid "Visible on desktop devices"
+msgstr "Видно на ПК"
+
+#: inc/sektions/ccat-sektions.php:3757
+msgid "Set visibility on devices"
+msgstr "Установить видимость на устройствах"
+
+#: inc/sektions/ccat-sektions.php:3745
+msgid "Note : white spaces, numbers and special characters are not allowed when setting an anchor."
+msgstr "Примечание: пробелы, цифры и специальные символы не допускаются при установке привязки."
+
+#: inc/sektions/ccat-sektions.php:3743
+msgid "Custom anchor"
+msgstr "Пользовательский якорь"
+
+#: inc/sektions/ccat-sektions.php:3738
+msgid "Set a custom anchor"
+msgstr "Установить собственный якорь"
+
+#: inc/sektions/ccat-sektions.php:3645
+msgid "Inner section width"
+msgstr "Ширина внутреннего сечения"
+
+#: inc/sektions/ccat-sektions.php:3636
+msgid "Define a custom inner width for this section"
+msgstr "Определите собственную внутреннюю ширину для этого раздела"
+
+#: inc/sektions/ccat-sektions.php:3627
+msgid "Outer section width"
+msgstr "Ширина наружного сечения"
+
+#: inc/sektions/ccat-sektions.php:3618
+msgid "Define a custom outer width for this section"
+msgstr "Определите пользовательскую внешнюю ширину для этого раздела"
+
+#: inc/sektions/ccat-sektions.php:3519
+msgid "Horizontal alignment"
+msgstr "Горизонтальное выравнивание"
+
+#: inc/sektions/ccat-sektions.php:3510
+msgid "Custom width"
+msgstr "Пользовательская ширина"
+
+#: inc/sektions/ccat-sektions.php:3504
+msgid "Width : 100% or custom"
+msgstr "Ширина: 100% o или на заказ"
+
+#: inc/sektions/ccat-sektions.php:3499 inc/sektions/ccat-sektions.php:3613
+msgid "Width options"
+msgstr "Настройка ширины"
+
+#: inc/sektions/ccat-sektions.php:3407
+msgid "Set padding and margin"
+msgstr "Параметры отступов и полей"
+
+#: inc/sektions/ccat-sektions.php:3401
+msgid "Spacing options"
+msgstr "Варианты интервалов"
+
+#: inc/sektions/ccat-sektions.php:3299
+msgid "Inner vertical alignment"
+msgstr "Внутреннее вертикальное выравнивание"
+
+#: inc/sektions/ccat-sektions.php:3273
+msgid "Height : auto or custom"
+msgstr "Высота: авто или на заказ"
+
+#: inc/sektions/ccat-sektions.php:3183 inc/sektions/ccat-sektions.php:4765
+#: inc/sektions/ccat-sektions.php:5165 inc/sektions/ccat-sektions.php:5393
+#: inc/sektions/ccat-sektions.php:6153 inc/sektions/ccat-sektions.php:6576
+msgid "Rounded corners"
+msgstr "Закругленные углы"
+
+#: inc/sektions/ccat-sektions.php:3156 inc/sektions/ccat-sektions.php:3172
+#: inc/sektions/ccat-sektions.php:4751 inc/sektions/ccat-sektions.php:5380
+#: inc/sektions/ccat-sektions.php:6139 inc/sektions/ccat-sektions.php:6562
+msgid "Borders"
+msgstr "Границы"
+
+#: inc/sektions/ccat-sektions.php:3017
+msgid "Opacity (in percents)"
+msgstr "Непрозрачность (в процентах)"
+
+#: inc/sektions/ccat-sektions.php:2779
+msgid "use the Nimble page template"
+msgstr "используйте шустрый шаблон страницы"
+
+#: inc/sektions/ccat-sektions.php:3890
+msgid "Default theme template"
+msgstr "Шаблон темы по умолчанию"
+
+#: inc/sektions/ccat-sektions.php:2720
+msgid "Adapt to content"
+msgstr "Адаптироваться к контенту"
+
+#: inc/sektions/ccat-sektions.php:2709
+msgid "Quote Icon"
+msgstr "Цитата Иконка"
+
+#: inc/sektions/ccat-sektions.php:2708
+msgid "Side Border"
+msgstr "Боковая граница"
+
+#: inc/sektions/ccat-sektions.php:2707
+msgid "Text only"
+msgstr "Только текст"
+
+#: inc/sektions/ccat-sektions.php:2652
+msgid "H6"
+msgstr "H6"
+
+#: inc/sektions/ccat-sektions.php:2651
+msgid "H5"
+msgstr "H5"
+
+#: inc/sektions/ccat-sektions.php:2650
+msgid "H4"
+msgstr "H4"
+
+#: inc/sektions/ccat-sektions.php:2649
+msgid "H3"
+msgstr "H3"
+
+#: inc/sektions/ccat-sektions.php:2648
+msgid "H2"
+msgstr "H2"
+
+#: inc/sektions/ccat-sektions.php:2647
+msgid "H1"
+msgstr "H1"
+
+#: inc/sektions/ccat-sektions.php:2618
+msgid "Reverse grayscale"
+msgstr "Обратная градация серого"
+
+#: inc/sektions/ccat-sektions.php:2617
+msgid "Grayscale"
+msgstr "Оттенки серого"
+
+#: inc/sektions/ccat-sektions.php:2616
+msgid "Blur"
+msgstr "Размытие"
+
+#: inc/sektions/ccat-sektions.php:2615
+msgid "Move down"
+msgstr "Переместить ниже"
+
+#: inc/sektions/ccat-sektions.php:2614
+msgid "Move up"
+msgstr "Переместить выше"
+
+#: inc/sektions/ccat-sektions.php:2613
+msgid "Zoom in"
+msgstr "Эффект Приблизить"
+
+#: inc/sektions/ccat-sektions.php:2612
+msgid "Zoom out"
+msgstr "Эффект Уменьшить"
+
+#: inc/sektions/ccat-sektions.php:2610
+msgid "No effect"
+msgstr "Нет эффекта"
+
+#: inc/sektions/ccat-czr-sektions.php:1558
+msgid "Bottom left"
+msgstr "Внизу слева"
+
+#: inc/sektions/ccat-czr-sektions.php:1558
+msgid "Bottom right"
+msgstr "Внизу справа"
+
+#: inc/sektions/ccat-czr-sektions.php:1558
+msgid "Top right"
+msgstr "Вверху справа"
+
+#: inc/sektions/ccat-czr-sektions.php:1558
+msgid "Top left"
+msgstr "Вверху слева"
+
+#: inc/sektions/ccat-czr-sektions.php:1517
+msgid "Bottom"
+msgstr "Снизу"
+
+#: inc/sektions/ccat-czr-sektions.php:1517 inc/sektions/ccat-sektions.php:6081
+msgid "Right"
+msgstr "Правый"
+
+#: inc/sektions/ccat-czr-sektions.php:1517
+msgid "Top"
+msgstr "Верх"
+
+#: inc/sektions/ccat-czr-sektions.php:1517 inc/sektions/ccat-sektions.php:6081
+msgid "Left"
+msgstr "Левый"
+
+#: inc/sektions/ccat-czr-sektions.php:1064
+#: inc/sektions/ccat-czr-sektions.php:1373
+#: inc/sektions/ccat-czr-sektions.php:1461
+#: inc/sektions/ccat-czr-sektions.php:1500
+#: inc/sektions/ccat-czr-sektions.php:1578
+msgid "%"
+msgstr "%"
+
+#: inc/sektions/ccat-czr-sektions.php:1064
+#: inc/sektions/ccat-czr-sektions.php:1373
+#: inc/sektions/ccat-czr-sektions.php:1461
+#: inc/sektions/ccat-czr-sektions.php:1500
+#: inc/sektions/ccat-czr-sektions.php:1578
+msgid "percents"
+msgstr "процентов"
+
+#: inc/sektions/ccat-czr-sektions.php:1064
+#: inc/sektions/ccat-czr-sektions.php:1373
+#: inc/sektions/ccat-czr-sektions.php:1461
+#: inc/sektions/ccat-czr-sektions.php:1500
+#: inc/sektions/ccat-czr-sektions.php:1536
+#: inc/sektions/ccat-czr-sektions.php:1578
+msgid "em"
+msgstr "em"
+
+#: inc/sektions/ccat-czr-sektions.php:1064
+#: inc/sektions/ccat-czr-sektions.php:1373
+#: inc/sektions/ccat-czr-sektions.php:1461
+#: inc/sektions/ccat-czr-sektions.php:1500
+#: inc/sektions/ccat-czr-sektions.php:1536
+#: inc/sektions/ccat-czr-sektions.php:1578
+msgid "px"
+msgstr "px"
+
+#: inc/sektions/ccat-czr-sektions.php:1064
+#: inc/sektions/ccat-czr-sektions.php:1373
+#: inc/sektions/ccat-czr-sektions.php:1461
+#: inc/sektions/ccat-czr-sektions.php:1500
+#: inc/sektions/ccat-czr-sektions.php:1536
+#: inc/sektions/ccat-czr-sektions.php:1578
+msgid "pixels"
+msgstr "пикселей"
+
+#: inc/sektions/ccat-czr-sektions.php:1063
+#: inc/sektions/ccat-czr-sektions.php:1372
+#: inc/sektions/ccat-czr-sektions.php:1460
+#: inc/sektions/ccat-czr-sektions.php:1499
+#: inc/sektions/ccat-czr-sektions.php:1535
+#: inc/sektions/ccat-czr-sektions.php:1577
+#: inc/sektions/ccat-czr-sektions.php:1600
+msgid "unit"
+msgstr "единица измерения"
+
+#: inc/sektions/ccat-czr-sektions.php:1055
+msgid "Margin bottom"
+msgstr "Нижнее поле"
+
+#: inc/sektions/ccat-czr-sektions.php:1047
+msgid "Margin right"
+msgstr "Правая граница"
+
+#: inc/sektions/ccat-czr-sektions.php:1039
+msgid "Padding bottom"
+msgstr "Отступ снизу"
+
+#: inc/sektions/ccat-czr-sektions.php:1032
+msgid "Padding right"
+msgstr "Отступ справа"
+
+#: inc/sektions/ccat-czr-sektions.php:1027
+msgid "Padding left"
+msgstr "Отступ слева"
+
+#: inc/sektions/ccat-czr-sektions.php:1020
+msgid "Padding top"
+msgstr "Отступ центр"
+
+#: inc/sektions/ccat-czr-sektions.php:1012
+msgid "Margin left"
+msgstr "Левая граница"
+
+#: inc/sektions/ccat-czr-sektions.php:1005
+msgid "Margin top"
+msgstr "Верх центр"
+
+#: inc/sektions/ccat-czr-sektions.php:943
+msgid "four columns layout"
+msgstr "макет четыре колонки"
+
+#: inc/sektions/ccat-czr-sektions.php:937
+msgid "three columns layout"
+msgstr "макет три колонки"
+
+#: inc/sektions/ccat-czr-sektions.php:931
+msgid "two columns layout"
+msgstr "макет с двумя колонками"
+
+#: inc/sektions/ccat-czr-sektions.php:905
+msgid "3 columns with icon"
+msgstr "3 колонки с иконой"
+
+#: inc/sektions/ccat-czr-sektions.php:899
+msgid "3 columns with icon and call to action"
+msgstr "3 колонки со значком и призывом к действию"
+
+#: inc/sektions/ccat-czr-sektions.php:889
+msgid "2 columns, call to action, full-width background"
+msgstr "2 столбца, призыв к действию, фон полной ширины"
+
+#: inc/sektions/ccat-czr-sektions.php:883
+msgid "1 column, full-width background"
+msgstr "1 столбец, фон полной ширины"
+
+#: inc/sektions/ccat-czr-sektions.php:877
+msgid "1 columns, call to action, full-width background"
+msgstr "1 столбец, призыв к действию, фон полной ширины"
+
+#: inc/sektions/ccat-sektions.php:1269
+msgid "Simple Contact Form"
+msgstr "Простая контактная форма"
+
+#: inc/sektions/ccat-sektions.php:1263 inc/sektions/ccat-sektions.php:5119
+msgid "Divider"
+msgstr "Разделитель"
+
+#: inc/sektions/ccat-sektions.php:1257 inc/sektions/ccat-sektions.php:5088
+msgid "Spacer"
+msgstr "Интервал"
+
+#: inc/sektions/ccat-sektions.php:1251 inc/sektions/ccat-sektions.php:5542
+msgid "Quote"
+msgstr "Цитата"
+
+#: inc/sektions/ccat-sektions.php:1245 inc/sektions/ccat-sektions.php:4486
+msgid "Html Content"
+msgstr "Содержание HTML"
+
+#: inc/sektions/ccat-sektions.php:1238
+msgid "Four Columns"
+msgstr "Четыре колонки"
+
+#: inc/sektions/ccat-sektions.php:1232
+msgid "Three Columns"
+msgstr "Три колонки"
+
+#: inc/sektions/ccat-sektions.php:1226
+msgid "Two Columns"
+msgstr "Две колонки"
+
+#: inc/sektions/ccat-sektions.php:1219 inc/sektions/ccat-sektions.php:5476
+msgid "Map"
+msgstr "Карта"
+
+#: inc/sektions/ccat-sektions.php:1213 inc/sektions/ccat-sektions.php:6000
+#: inc/sektions/ccat-sektions.php:6931
+msgid "Button"
+msgstr "Кнопка"
+
+#: inc/sektions/ccat-sektions.php:1207 inc/sektions/ccat-sektions.php:5216
+msgid "Icon"
+msgstr "Иконка"
+
+#: inc/sektions/ccat-sektions.php:1200 inc/sektions/ccat-sektions.php:4948
+msgid "Heading"
+msgstr "Заголовок"
+
+#: inc/sektions/ccat-sektions.php:1188
+msgid "WordPress Editor"
+msgstr "Редактор WordPress"
+
+#: inc/sektions/ccat-czr-sektions.php:802
+msgid "Pick a section"
+msgstr "Выберите раздел"
+
+#: inc/sektions/ccat-czr-sektions.php:801 inc/sektions/ccat-sektions.php:2768
+msgid "Content type"
+msgstr "Тип содержимого"
+
+#: inc/sektions/ccat-czr-sektions.php:522
+#: inc/sektions/ccat-czr-sektions.php:523
+#: inc/sektions/ccat-czr-sektions.php:524
+#: inc/sektions/ccat-czr-sektions.php:525
+msgid "Nimble online documentation"
+msgstr "Oнлайн-документация"
+
+#: inc/sektions/ccat-czr-sektions.php:516
+#: inc/sektions/ccat-czr-sektions.php:517
+msgid "Global settings"
+msgstr "Глобальные настройки"
+
+#: inc/sektions/ccat-czr-sektions.php:511
+#: inc/sektions/ccat-czr-sektions.php:512
+msgid "Redo"
+msgstr "Повторить"
+
+#: inc/sektions/ccat-czr-sektions.php:508
+#: inc/sektions/ccat-czr-sektions.php:509
+msgid "Undo"
+msgstr "Отменить"
+
+#: inc/sektions/ccat-czr-sektions.php:498
+#: inc/sektions/ccat-czr-sektions.php:499
+msgid "Add content"
+msgstr "Добавить контент"
+
+#: inc/sektions/ccat-czr-sektions.php:436
+msgid "Settings on mobiles"
+msgstr "Настройки на мобильных телефонах"
+
+#: inc/sektions/ccat-czr-sektions.php:435
+msgid "Settings on tablets"
+msgstr "Настройки на планшетах"
+
+#: inc/sektions/ccat-czr-sektions.php:434
+msgid "Settings on desktops"
+msgstr "Настройки на ПК"
+
+#: inc/sektions/ccat-czr-sektions.php:433
+msgid "There are %d errors in your %s code which might break your site. Please fix them before saving."
+msgstr "В вашем коде %d есть ошибки %s которые могут сломать ваш сайт. Пожалуйста, исправьте их перед сохранением."
+
+#: inc/sektions/ccat-czr-sektions.php:432
+msgid "There is %d error in your %s code which might break your site. Please fix it before saving."
+msgstr "В вашем коде %d есть ошибка %s которая может сломать ваш сайт. Пожалуйста, исправьте это перед сохранением."
+
+#: inc/sektions/ccat-czr-sektions.php:431
+msgid "Select an icon"
+msgstr "Выберите значок"
+
+#: inc/sektions/ccat-czr-sektions.php:412
+msgid "Site wide options"
+msgstr "Расширенные возможности сайта"
+
+#: inc/sektions/ccat-czr-sektions.php:410
+msgid "General options applied for the sections site wide"
+msgstr "Общие параметры, применяемые к разделам сайта в целом"
+
+#: inc/sektions/ccat-czr-sektions.php:409
+msgid "Options for the sections of the current page"
+msgstr "Опции для разделов текущей страницы"
+
+#: inc/sektions/ccat-czr-sektions.php:404
+msgid "Site wide inner and outer sections widths"
+msgstr "Широкая ширина внутреннего и наружного участков"
+
+#: inc/sektions/ccat-czr-sektions.php:403
+msgid "Site wide breakpoint for Nimble sections"
+msgstr "Точка остановки всего сайта для проворных разделов"
+
+#: inc/sektions/ccat-czr-sektions.php:399
+msgid "Remove the sections in this page"
+msgstr "Удалить разделы на этой странице"
+
+#: inc/sektions/ccat-czr-sektions.php:398
+msgid "Custom CSS"
+msgstr "Пользовательские CSS"
+
+#: inc/sektions/ccat-czr-sektions.php:397
+msgid "Inner and outer widths"
+msgstr "Внутренняя и внешняя ширина"
+
+#: inc/sektions/ccat-czr-sektions.php:394
+msgid "Page template"
+msgstr "Шаблон страницы"
+
+#: inc/sektions/ccat-czr-sektions.php:393
+msgid "Current page options"
+msgstr "Параметры текущей страницы"
+
+#: inc/sektions/ccat-czr-sektions.php:390
+msgid "Responsive settings : breakpoint, column direction"
+msgstr "Адаптивные настройки : точка останова, направление столбца"
+
+#: inc/sektions/ccat-czr-sektions.php:389
+msgid "Device visibility settings for the"
+msgstr "Настройки видимости устройства для"
+
+#: inc/sektions/ccat-czr-sektions.php:387
+msgid "Width settings for the"
+msgstr "Настройки ширины для"
+
+#: inc/sektions/ccat-czr-sektions.php:384
+msgid "Borders settings for the"
+msgstr "Настройки границ для"
+
+#: inc/sektions/ccat-czr-sektions.php:383
+msgid "Background settings for the"
+msgstr "Настройки фона для"
+
+#: inc/sektions/ccat-czr-sektions.php:374 inc/sektions/ccat-sektions.php:2870
+msgid "Empty sections with columns layout"
+msgstr "Пустые разделы с расположением столбцов"
+
+#: inc/sektions/ccat-czr-sektions.php:372 inc/sektions/ccat-sektions.php:2844
+msgid "Sections for services and features"
+msgstr "Разделы Для услуг и функций"
+
+#: inc/sektions/ccat-czr-sektions.php:371 inc/sektions/ccat-sektions.php:2832
+msgid "Sections for an introduction"
+msgstr "Разделы Для введения"
+
+#: inc/sektions/ccat-czr-sektions.php:364
+msgid "Select a content type"
+msgstr "Выберите тип контента"
+
+#: inc/sektions/ccat-czr-sektions.php:363
+msgid "Pick a pre-designed section"
+msgstr "Выберите заранее разработанный раздел"
+
+#: inc/sektions/ccat-czr-sektions.php:362
+#: inc/sektions/ccat-czr-sektions.php:803
+msgid "Pick a module"
+msgstr "Выберите модуль"
+
+#: inc/sektions/ccat-czr-sektions.php:360
+msgid "Drag and drop content"
+msgstr "Перетащите контент"
+
+#: inc/czr-base-fmk/czr-base-fmk.php:817
+msgid "Hide editor"
+msgstr "Скрыть редактор"
+
+#: inc/sektions/ccat-sektions.php:9805 inc/sektions/ccat-sektions.php:9841
+msgid "WordPress content"
+msgstr "Содержание WordPress"
+
+#: inc/sektions/ccat-sektions.php:9800 inc/sektions/ccat-sektions.php:9805
+msgid "Edit this WordPress content"
+msgstr "Редактировать этот контент WordPress"
+
+#: inc/sektions/ccat-sektions.php:9776 inc/sektions/ccat-sektions.php:9784
+#: inc/sektions/ccat-sektions.php:9804 inc/sektions/ccat-sektions.php:10179
+msgid "Edit module settings"
+msgstr "Изменить настройки модуля"
+
+#: inc/sektions/ccat-sektions.php:9775
+msgid "Edit module content"
+msgstr "Редактировать содержимое модуля"
+
+#: inc/sektions/ccat-sektions.php:9743 inc/sektions/ccat-sektions.php:9758
+msgid "Edit column settings"
+msgstr "Изменить настройки столбца"
+
+#: inc/sektions/ccat-sektions.php:9702 inc/sektions/ccat-sektions.php:9714
+msgid "Edit section settings"
+msgstr "Изменить настройки раздела"
+
+#: inc/sektions/ccat-sektions.php:9623
+msgid "This content has been created with the WordPress editor."
+msgstr "Этот контент был создан с помощью редактора WordPress."
+
+#: nimble-builder.php:62
+msgid "The <strong>%1$s</strong> plugin requires at least %2$s version %3$s."
+msgstr "Для <strong>%1$s</strong> плагина требуется не менее %2$s версии %3$s."
+
+#: nimble-builder.php:58
+msgid "WordPress"
+msgstr "WordPress"
+
+#: nimble-builder.php:55
+msgid "PHP"
+msgstr "PHP"
+
+#: inc/sektions/ccat-czr-sektions.php:687
+msgid "Hide Editor"
+msgstr "Скрыть редактор"
+
+#: inc/czr-base-fmk/czr-base-fmk.php:1836
+msgid "No results found."
+msgstr "Результаты не найдены."
+
+#. translators: %d: ID of a post
+#: inc/czr-base-fmk/czr-base-fmk.php:1693
+#: inc/czr-base-fmk/czr-base-fmk.php:1902
+msgid "#%d (no title)"
+msgstr "#%d (без заголовка)"
+
+#: inc/czr-base-fmk/czr-base-fmk.php:1572
+#: inc/czr-base-fmk/czr-base-fmk.php:1772
+msgid "ajax_load_available_items => Security check failed."
+msgstr "ajax_load_available_items => Проверка безопасности не удалась."
+
+#: tmpl/modules/tinymce_editor_module_tmpl.php:31
+#: tmpl/modules/heading_module_tmpl.php:20
+#: tmpl/modules/quote_module_tmpl.php:19 inc/sektions/ccat-sektions.php:10268
+#: inc/sektions/ccat-sektions.php:10276 inc/sektions/ccat-sektions.php:10280
+msgid "Click to edit"
+msgstr "Нажмите, чтобы редактировать"
+
+#: inc/sektions/ccat-sektions.php:9778
+msgid "Remove module"
+msgstr "Удалить модуль"
+
+#: inc/sektions/ccat-sektions.php:9777
+msgid "Duplicate module"
+msgstr "Дублирующий модуль"
+
+#: inc/sektions/ccat-sektions.php:9774
+msgid "Move module"
+msgstr "Переместить модуль"
+
+#: inc/sektions/ccat-sektions.php:9753
+msgid "Remove column"
+msgstr "Удалить столбец"
+
+#: inc/sektions/ccat-sektions.php:9710 inc/sektions/ccat-sektions.php:9751
+msgid "Add a module"
+msgstr "Добавить модуль"
+
+#: inc/sektions/ccat-sektions.php:9748
+msgid "Duplicate column"
+msgstr "Дублирующая колонка"
+
+#: inc/sektions/ccat-sektions.php:9745
+msgid "Add a nested section"
+msgstr "Добавить вложенный раздел"
+
+#: inc/sektions/ccat-sektions.php:9742
+msgid "Move column"
+msgstr "Переместить столбец"
+
+#: inc/sektions/ccat-sektions.php:9711
+msgid "Remove section"
+msgstr "Удалить раздел"
+
+#: inc/sektions/ccat-sektions.php:9706
+msgid "Duplicate section"
+msgstr "Дублировать раздел"
+
+#: inc/sektions/ccat-sektions.php:9704
+msgid "Add a column"
+msgstr "Добавить столбец"
+
+#: inc/sektions/ccat-sektions.php:9625
+msgid "Insert a new section"
+msgstr "Вставить новый раздел"
+
+#: inc/sektions/ccat-sektions.php:4660 inc/sektions/ccat-sektions.php:5024
+#: inc/sektions/ccat-sektions.php:5273 inc/sektions/ccat-sektions.php:6068
+msgid "Open link in a new page"
+msgstr "Открыть ссылку на новой странице"
+
+#: inc/sektions/ccat-sektions.php:4655 inc/sektions/ccat-sektions.php:5019
+#: inc/sektions/ccat-sektions.php:5268 inc/sektions/ccat-sektions.php:6063
+msgid "Custom link url"
+msgstr "URL пользовательской ссылки"
+
+#: inc/sektions/ccat-sektions.php:4650 inc/sektions/ccat-sektions.php:5014
+#: inc/sektions/ccat-sektions.php:5263 inc/sektions/ccat-sektions.php:6058
+msgid "Link url"
+msgstr "URL ссылки"
+
+#: inc/sektions/ccat-sektions.php:5257 inc/sektions/ccat-sektions.php:6052
+msgid "Link to"
+msgstr "Ссылка на"
+
+#: inc/sektions/ccat-sektions.php:4628 inc/sektions/ccat-sektions.php:4900
+msgid "Select the image size"
+msgstr "Выберите размер изображения"
+
+#: inc/sektions/ccat-sektions.php:4623 inc/sektions/ccat-sektions.php:4895
+msgid "Pick an image"
+msgstr "Выберите изображение"
+
+#: inc/sektions/ccat-sektions.php:5703 inc/sektions/ccat-sektions.php:5861
+#: inc/sektions/ccat-sektions.php:6774 inc/sektions/ccat-sektions.php:6909
+#: inc/sektions/ccat-sektions.php:7044
+msgid "Make those style options win if other rules are applied."
+msgstr "Сделайте эти опции стиля победными, если применяются другие правила."
+
+#: inc/sektions/ccat-sektions.php:5640 inc/sektions/ccat-sektions.php:5798
+#: inc/sektions/ccat-sektions.php:6711 inc/sektions/ccat-sektions.php:6846
+#: inc/sektions/ccat-sektions.php:6981 inc/sektions/ccat-sektions.php:7374
+msgid "Text color on mouse over"
+msgstr "Этот текст появится при наведении курсора"
+
+#: inc/sektions/ccat-sektions.php:5630 inc/sektions/ccat-sektions.php:5788
+#: inc/sektions/ccat-sektions.php:6701 inc/sektions/ccat-sektions.php:6836
+#: inc/sektions/ccat-sektions.php:6971 inc/sektions/ccat-sektions.php:7365
+msgid "Text color"
+msgstr "Цвет текста"
+
+#: inc/sektions/ccat-sektions.php:5691 inc/sektions/ccat-sektions.php:5849
+#: inc/sektions/ccat-sektions.php:6762 inc/sektions/ccat-sektions.php:6897
+#: inc/sektions/ccat-sektions.php:7032 inc/sektions/ccat-sektions.php:7421
+msgid "Letter spacing"
+msgstr "Интервал между буквами"
+
+#: inc/sektions/ccat-sektions.php:5681 inc/sektions/ccat-sektions.php:5839
+#: inc/sektions/ccat-sektions.php:6752 inc/sektions/ccat-sektions.php:6887
+#: inc/sektions/ccat-sektions.php:7022 inc/sektions/ccat-sektions.php:7411
+msgid "Text transform"
+msgstr "Преобразование текста"
+
+#: inc/sektions/ccat-sektions.php:5671 inc/sektions/ccat-sektions.php:5829
+#: inc/sektions/ccat-sektions.php:6742 inc/sektions/ccat-sektions.php:6877
+#: inc/sektions/ccat-sektions.php:7012 inc/sektions/ccat-sektions.php:7402
+msgid "Text decoration"
+msgstr "Текстовое оформление"
+
+#: inc/sektions/ccat-sektions.php:5651 inc/sektions/ccat-sektions.php:5809
+#: inc/sektions/ccat-sektions.php:6722 inc/sektions/ccat-sektions.php:6857
+#: inc/sektions/ccat-sektions.php:6992 inc/sektions/ccat-sektions.php:7384
+msgid "Font weight"
+msgstr "Вес шрифта"
+
+#: inc/sektions/ccat-sektions.php:5594 inc/sektions/ccat-sektions.php:5752
+#: inc/sektions/ccat-sektions.php:6665 inc/sektions/ccat-sektions.php:6800
+#: inc/sektions/ccat-sektions.php:6935 inc/sektions/ccat-sektions.php:7333
+msgid "Font family"
+msgstr "Семейство шрифтов"
+
+#: inc/sektions/ccat-sektions.php:5661 inc/sektions/ccat-sektions.php:5819
+#: inc/sektions/ccat-sektions.php:6732 inc/sektions/ccat-sektions.php:6867
+#: inc/sektions/ccat-sektions.php:7002 inc/sektions/ccat-sektions.php:7393
+msgid "Font style"
+msgstr "Стиль шрифта"
+
+#: inc/sektions/ccat-sektions.php:4559 inc/sektions/ccat-sektions.php:4667
+#: inc/sektions/ccat-sektions.php:4989 inc/sektions/ccat-sektions.php:5177
+#: inc/sektions/ccat-sektions.php:5292 inc/sektions/ccat-sektions.php:7283
+msgid "Alignment"
+msgstr "Выравнивание"
+
+#: inc/sektions/ccat-sektions.php:4549 inc/sektions/ccat-sektions.php:4554
+#: inc/sektions/ccat-sektions.php:4970
+msgid "Content"
+msgstr "Содержимое"
+
+#: inc/sektions/ccat-sektions.php:3279
+msgid "Custom height"
+msgstr "Пользовательская высота"
+
+#: inc/sektions/ccat-sektions.php:3265
+msgid "Height options"
+msgstr "Высота"
+
+#: inc/sektions/ccat-sektions.php:3192 inc/sektions/ccat-sektions.php:4710
+#: inc/sektions/ccat-sektions.php:5405 inc/sektions/ccat-sektions.php:6192
+#: inc/sektions/ccat-sektions.php:6616
+msgid "Apply a shadow"
+msgstr "Нанести тень"
+
+#: inc/sektions/ccat-sektions.php:5926
+msgid "Border Color"
+msgstr "Цвет границы"
+
+#: inc/sektions/ccat-sektions.php:3166
+msgid "Border shape"
+msgstr "Форма границы"
+
+#: inc/sektions/ccat-sektions.php:4743 inc/sektions/ccat-sektions.php:5372
+#: inc/sektions/ccat-sektions.php:6131 inc/sektions/ccat-sektions.php:6554
+msgid "Border"
+msgstr "Граница"
+
+#: inc/sektions/ccat-sektions.php:2611
+msgid "Opacity"
+msgstr "Непрозрачность фона"
+
+#: inc/sektions/ccat-sektions.php:3011
+msgid "Overlay Color"
+msgstr "Цвет наложения"
+
+#: inc/sektions/ccat-sektions.php:3004
+msgid "Apply a background overlay"
+msgstr "Применить наложение фона"
+
+#: inc/sektions/ccat-sektions.php:2998
+msgid "Scale"
+msgstr "Масштаб"
+
+#: inc/sektions/ccat-sektions.php:2955
+msgid "Fixed background"
+msgstr "Фиксированный фон"
+
+#: inc/sektions/ccat-sektions.php:2949
+msgid "Image position"
+msgstr "Позиция изображения"
+
+#: inc/sektions/ccat-sektions.php:2931 inc/sektions/ccat-sektions.php:5362
+#: inc/sektions/ccat-sektions.php:6104 inc/sektions/ccat-sektions.php:6526
+msgid "Background color"
+msgstr "Цвет фона"
+
+#: inc/sektions/ccat-sektions.php:2926
+msgid "Background"
+msgstr "Фон"
+
+#: inc/sektions/ccat-czr-sektions.php:1066
+msgid "Reset all spacing"
+msgstr "Сбросить все интервалы"
+
+#: inc/sektions/ccat-sektions.php:1194 inc/sektions/ccat-sektions.php:2937
+#: inc/sektions/ccat-sektions.php:4596
+msgid "Image"
+msgstr "Изображение"
+
+#: inc/sektions/ccat-sektions.php:4523
+msgid "Text Editor"
+msgstr "Текстовый редактор"
+
+#: inc/sektions/ccat-sektions.php:756
+msgid "Original image dimensions"
+msgstr "Размеры исходного изображения"
+
+#: inc/sektions/ccat-czr-sektions.php:429 inc/sektions/ccat-sektions.php:9621
+msgid "Something went wrong, please refresh this page."
+msgstr "Что-то пошло не так, пожалуйста, обновите эту страницу."
+
+#: inc/sektions/ccat-czr-sektions.php:427
+#: inc/czr-base-fmk/czr-base-fmk.php:1538
+msgid "Set a custom url"
+msgstr "Установите пользовательский URL"
+
+#: inc/sektions/ccat-czr-sektions.php:425
+msgid "Google Fonts"
+msgstr "Google шрифты"
+
+#: inc/sektions/ccat-czr-sektions.php:424
+msgid "Web Safe Fonts"
+msgstr "Безопасные для Web шрифты"
+
+#: inc/sektions/ccat-czr-sektions.php:423
+msgid "Select a font family"
+msgstr "Выберите семейство шрифтов"
+
+#: inc/sektions/ccat-czr-sektions.php:422
+msgid "Insert a new section here"
+msgstr "Вставьте новый раздел здесь"
+
+#: inc/sektions/ccat-czr-sektions.php:421
+msgid "Insert in a new section"
+msgstr "Вставить в новый раздел"
+
+#: inc/sektions/ccat-czr-sektions.php:420 inc/sektions/ccat-sektions.php:9622
+msgid "Insert here"
+msgstr "Вставьте сюда"
+
+#: inc/sektions/ccat-czr-sektions.php:418
+msgid "This browser does not support drag and drop. You might need to update your browser or use another one."
+msgstr "Этот браузер не поддерживает перетаскивание. Возможно, вам придется обновить ваш браузер или использовать другой."
+
+#: inc/sektions/ccat-czr-sektions.php:417 inc/sektions/ccat-sektions.php:9782
+msgid "module"
+msgstr "модуль"
+
+#: inc/sektions/ccat-czr-sektions.php:416 inc/sektions/ccat-sektions.php:9764
+msgid "column"
+msgstr "колонка"
+
+#: inc/sektions/ccat-czr-sektions.php:414 inc/sektions/ccat-sektions.php:9629
+msgid "section"
+msgstr "раздел"
+
+#: inc/sektions/ccat-czr-sektions.php:413
+msgid "location"
+msgstr "место нахождения"
+
+#: inc/sektions/ccat-czr-sektions.php:392
+msgid "Settings for the"
+msgstr "Настройки для"
+
+#: inc/sektions/ccat-czr-sektions.php:385
+msgid "Padding and margin settings for the"
+msgstr "Параметры отступов и полей для"
+
+#: inc/sektions/ccat-czr-sektions.php:382
+msgid "Layout settings for the"
+msgstr "Настройки макета для"
+
+#: inc/sektions/ccat-czr-sektions.php:380
+msgid "Customize the options for module :"
+msgstr "Настройте параметры для модуля:"
+
+#: inc/sektions/ccat-czr-sektions.php:379
+msgid "Content for"
+msgstr "Содержание для"
+
+#: inc/sektions/ccat-czr-sektions.php:378
+msgid "Module"
+msgstr "Модуль"
+
+#: inc/sektions/ccat-czr-sektions.php:359
+msgid "Reset complete"
+msgstr "Сброс завершен"
+
+#: inc/sektions/ccat-czr-sektions.php:358
+#: inc/sektions/ccat-czr-sektions.php:1541
+#: inc/sektions/ccat-czr-sektions.php:1559
+#: inc/sektions/ccat-czr-sektions.php:1629
+msgid "Reset"
+msgstr "Сбросить"
+
+#: inc/sektions/ccat-czr-sektions.php:355
+msgid "A section must have at least one column."
+msgstr "Раздел должен иметь хотя бы один столбец."
+
+#: inc/sektions/ccat-czr-sektions.php:354 inc/sektions/ccat-sektions.php:9619
+msgid "You've reached the maximum number of columns allowed in this section."
+msgstr "Вы достигли максимально допустимого числа столбцов в этом разделе."
+
+#: inc/sektions/ccat-czr-sektions.php:353
+msgid "You've reached the maximum number of allowed nested sections."
+msgstr "Вы достигли максимального количества разрешенных вложенных разделов."
+
+#: inc/czr-base-fmk/czr-base-fmk.php:256
+msgid "Customizing"
+msgstr "Пользовательская настройка"
+
+#: nimble-builder.php:63 inc/admin/nimble-admin.php:390
+#: inc/sektions/ccat-czr-sektions.php:351
+#: inc/sektions/ccat-czr-sektions.php:522 inc/sektions/ccat-sektions.php:1333
+#: inc/sektions/ccat-sektions.php:1335
+msgid "Nimble Builder"
+msgstr "Nimble Builder"
+
+#: inc/sektions/ccat-czr-sektions.php:349
+msgid "Sections"
+msgstr "Разделы"
+
+#: inc/sektions/ccat-sektions.php:2749
+msgid "dashed"
+msgstr "пунктирная"
+
+#: inc/sektions/ccat-sektions.php:2748
+msgid "dotted"
+msgstr "пунктирный"
+
+#: inc/sektions/ccat-sektions.php:2747
+msgid "double"
+msgstr "двойной"
+
+#: inc/sektions/ccat-sektions.php:2746
+msgid "solid"
+msgstr "сплошной"
+
+#: inc/sektions/ccat-sektions.php:2734
+msgid "Scale to fill"
+msgstr "Шкала для заполнения"
+
+#: inc/sektions/ccat-sektions.php:2721 inc/sektions/ccat-sektions.php:2727
+msgid "Custom"
+msgstr "Пользовательский"
+
+#: inc/sektions/ccat-sektions.php:2740
+msgid "default"
+msgstr "по умолчанию"
+
+#: inc/sektions/ccat-sektions.php:2715
+msgid "Full Width"
+msgstr "Полная ширина"
+
+#: inc/sektions/ccat-sektions.php:2702
+msgid "Percents"
+msgstr "Процентов"
+
+#: inc/sektions/ccat-sektions.php:2701
+msgid "Em"
+msgstr "Em"
+
+#: inc/sektions/ccat-sektions.php:2700
+msgid "Pixels"
+msgstr "Пикселей"
+
+#: inc/sektions/ccat-sektions.php:2695
+msgid "lowercase"
+msgstr "нижний регист"
+
+#: inc/sektions/ccat-sektions.php:2694
+msgid "uppercase"
+msgstr "верхний регистр"
+
+#: inc/sektions/ccat-sektions.php:2693
+msgid "capitalize"
+msgstr "использовать"
+
+#: inc/sektions/ccat-sektions.php:2686
+msgid "underline"
+msgstr "подчеркивание"
+
+#: inc/sektions/ccat-sektions.php:2685
+msgid "overline"
+msgstr "по линии"
+
+#: inc/sektions/ccat-sektions.php:2684
+msgid "line-through"
+msgstr "линия проходящая через"
+
+#: inc/sektions/ccat-sektions.php:2682 inc/sektions/ccat-sektions.php:2691
+#: inc/sektions/ccat-sektions.php:2745
+msgid "none"
+msgstr "отсутствует"
+
+#: inc/sektions/ccat-sektions.php:2677
+msgid "oblique"
+msgstr "наклонный"
+
+#: inc/sektions/ccat-sektions.php:2675
+msgid "italic"
+msgstr "курсив"
+
+#: inc/sektions/ccat-sektions.php:2674 inc/sektions/ccat-sektions.php:2683
+#: inc/sektions/ccat-sektions.php:2692
+msgid "inherit"
+msgstr "унаследовать"
+
+#: inc/sektions/ccat-sektions.php:2657 inc/sektions/ccat-sektions.php:2676
+msgid "normal"
+msgstr "нормальный"
+
+#: inc/sektions/ccat-sektions.php:2641
+msgid "Use a custom text"
+msgstr "Используйте пользовательский текст"
+
+#: inc/sektions/ccat-sektions.php:2640
+msgid "Use the page excerpt"
+msgstr "Используйте страницу выдержки"
+
+#: inc/sektions/ccat-sektions.php:2639
+msgid "No text"
+msgstr "Нет текста"
+
+#: inc/sektions/ccat-sektions.php:2634
+msgid "Use a custom image"
+msgstr "Используйте собственное изображение"
+
+#: inc/sektions/ccat-sektions.php:2633
+msgid "Use the page featured image"
+msgstr "Используйте изображение страницы"
+
+#: inc/sektions/ccat-sektions.php:2632
+msgid "No image"
+msgstr "Нет изображения"
+
+#: inc/sektions/ccat-sektions.php:2627
+msgid "Site content or custom url"
+msgstr "Содержание сайта или пользовательский URL"
+
+#: inc/sektions/ccat-sektions.php:2626
+msgid "No link"
+msgstr "Нет ссылки"
+
+#: inc/czr-skope/index.php:322
+msgid "Sitewide options"
+msgstr "Настройки для всего сайта"
+
+#: inc/czr-skope/index.php:317
+msgid "users"
+msgstr "пользователи"
+
+#: inc/czr-skope/index.php:304 inc/sektions/ccat-czr-sektions.php:1517
+#: inc/sektions/ccat-czr-sektions.php:1558
+msgid "All"
+msgstr "Все"
+
+#: inc/czr-skope/index.php:304
+msgid "Options for all"
+msgstr "Варианты для всех"
+
+#: inc/czr-skope/index.php:300
+msgid "Undefined"
+msgstr "Неопределенный"
+
+#: inc/czr-skope/index.php:295
+msgid "%1$s archive page"
+msgstr "%1$s страница архива"
+
+#: inc/czr-skope/index.php:289
+msgid "user"
+msgstr "пользователь"
+
+#: inc/czr-base-fmk/czr-base-fmk.php:461
+msgid "No"
+msgstr "Нет"
+
+#: inc/czr-base-fmk/czr-base-fmk.php:461
+msgid "Yes"
+msgstr "Да"
+
+#: inc/czr-base-fmk/czr-base-fmk.php:460
+msgid "Are you sure you want to remove : <strong>{{ data.title }} ?</strong>"
+msgstr "Вы уверены, что хотите удалить : <strong>{{ data.title }} ?</strong>"
+
+#: inc/czr-base-fmk/czr-base-fmk.php:439
+msgid "Add it"
+msgstr "Добавить этот"
+
+#: inc/sektions/ccat-czr-sektions.php:547
+#: inc/sektions/ccat-czr-sektions.php:548 inc/czr-base-fmk/czr-base-fmk.php:439
+msgid "Cancel"
+msgstr "Отмена"
+
+#: inc/czr-base-fmk/czr-base-fmk.php:434
+msgid "Add New"
+msgstr "Добавить новый"
+
+#: inc/czr-base-fmk/czr-base-fmk.php:393
+msgid "ac_set_ajax_czr_tmpl => Security check failed."
+msgstr "ac_set_ajax_czr_tmpl => Проверка безопасности не удалась."
+
+#: inc/czr-base-fmk/czr-base-fmk.php:254
+msgid "Choose Image"
+msgstr "Выберите изображение"
+
+#: inc/czr-base-fmk/czr-base-fmk.php:252
+msgid "No image selected"
+msgstr "Изображение не выбрано"
+
+#: inc/sektions/ccat-sektions.php:2726 inc/sektions/ccat-sektions.php:2732
+#: inc/sektions/ccat-sektions.php:2987 inc/czr-base-fmk/czr-base-fmk.php:251
+msgid "Default"
+msgstr "По умолчанию"
+
+#: inc/czr-base-fmk/czr-base-fmk.php:250 inc/czr-base-fmk/czr-base-fmk.php:452
+msgid "Remove"
+msgstr "Удалить"
+
+#: inc/czr-base-fmk/czr-base-fmk.php:249
+msgid "Change Image"
+msgstr "Изменить изображение"
+
+#: inc/czr-base-fmk/czr-base-fmk.php:248 inc/czr-base-fmk/czr-base-fmk.php:253
+msgid "Select Image"
+msgstr "Выберите изображение"
+
+#: inc/czr-skope/index.php:272 inc/czr-base-fmk/czr-base-fmk.php:245
+msgid "Options for"
+msgstr "Варианты для"
+
+#: inc/czr-base-fmk/czr-base-fmk.php:244
+msgid "Settings"
+msgstr "Настройки"
+
+#: inc/czr-base-fmk/czr-base-fmk.php:243
+msgid "Learn more about this in the documentation"
+msgstr "Узнайте больше об этом в документации"
+
+#: inc/czr-base-fmk/czr-base-fmk.php:241
+msgid "Done !"
+msgstr "Готово !"
+
+#: inc/czr-base-fmk/czr-base-fmk.php:240
+msgid "Not set"
+msgstr "Не установлен"
+
+#: inc/sektions/ccat-czr-sektions.php:556
+#: inc/sektions/ccat-czr-sektions.php:557 inc/czr-base-fmk/czr-base-fmk.php:239
+msgid "Close"
+msgstr "Закрыть"
+
+#: inc/czr-base-fmk/czr-base-fmk.php:238 inc/czr-base-fmk/czr-base-fmk.php:452
+#: inc/czr-base-fmk/czr-base-fmk.php:816
+msgid "Edit"
+msgstr "Редактировать"
